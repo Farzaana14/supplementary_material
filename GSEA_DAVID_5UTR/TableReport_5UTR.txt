@@ -1,0 +1,1983 @@
+Rv1603	1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase(hisA)
+COG_ONTOLOGY	120000007$Amino acid transport and metabolism,
+GOTERM_BP_DIRECT	300000049$GO:0000105~histidine biosynthetic process,300000058$GO:0000162~tryptophan biosynthetic process,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,
+GOTERM_MF_DIRECT	460000471$GO:0003949~1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino]imidazole-4-carboxamide isomerase activity,460000963$GO:0004640~phosphoribosylanthranilate isomerase activity,
+INTERPRO	530005144$IPR006062:Histidine biosynthesis,530008742$IPR010188:Bifunctional HisA/TrpF,530009491$IPR011060:Ribulose-phosphate binding barrel,530011680$IPR013785:Aldolase-type TIM barrel,530019488$IPR023016:Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase,
+KEGG_PATHWAY	550041934$mtu00340:Histidine metabolism,550041941$mtu00400:Phenylalanine, tyrosine and tryptophan biosynthesis,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042006$mtu01230:Biosynthesis of amino acids,
+UP_KEYWORDS	870000010$3D-structure,870000059$Amino-acid biosynthesis,870000092$Aromatic amino acid biosynthesis,870000251$Complete proteome,870000288$Cytoplasm,870000480$Histidine biosynthesis,870000609$Isomerase,870000928$Reference proteome,870001112$Tryptophan biosynthesis,
+UP_SEQ_FEATURE	880000109$active site:Proton acceptor,880000126$active site:Proton donor,880032191$chain:Phosphoribosyl isomerase A,
+
+Rv1170	1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase(mshB)
+GOTERM_BP_DIRECT	300003146$GO:0010125~mycothiol biosynthetic process,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460001672$GO:0008270~zinc ion binding,460002935$GO:0016811~hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides,460004570$GO:0035595~N-acetylglucosaminylinositol deacetylase activity,
+INTERPRO	530003054$IPR003737:N-acetylglucosaminyl phosphatidylinositol deacetylase,530015006$IPR017810:Mycothiol biosynthesis protein, MshB,530020418$IPR024078:Putative deacetylase LmbE-like domain,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000516$Hydrolase,870000691$Metal-binding,870000928$Reference proteome,870001206$Zinc,
+
+Rv1483	3-oxoacyl-ACP reductase FabG(fabG1)
+GOTERM_BP_DIRECT	300009509$GO:0046459~short-chain fatty acid metabolic process,300011127$GO:0055114~oxidation-reduction process,300012967$GO:0071768~mycolic acid biosynthetic process,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000694$GO:0004316~3-oxoacyl-[acyl-carrier-protein] reductase (NADPH) activity,460002784$GO:0016491~oxidoreductase activity,460003135$GO:0018454~acetoacetyl-CoA reductase activity,460007300$GO:0102132~3-oxo-pimeloyl-[acp] methyl ester reductase activity,
+INTERPRO	530001946$IPR002347:Glucose/ribitol dehydrogenase,530013409$IPR016040:NAD(P)-binding domain,530017536$IPR020904:Short-chain dehydrogenase/reductase, conserved site,
+UP_KEYWORDS	870000010$3D-structure,870000030$Acetylation,870000251$Complete proteome,870000377$Fatty acid biosynthesis,870000378$Fatty acid metabolism,870000653$Lipid biosynthesis,870000656$Lipid metabolism,870000754$NADP,870000802$Oxidoreductase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880000109$active site:Proton acceptor,880000510$binding site:Substrate,880001276$chain:3-oxoacyl-[acyl-carrier-protein] reductase,880079268$helix,880079690$nucleotide phosphate-binding region:NADP,880089040$strand,880089085$turn,
+
+Rv0700	30S ribosomal protein S10(rpsJ)
+GOTERM_BP_DIRECT	300001535$GO:0006412~translation,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000373$GO:0005840~ribosome,380000407$GO:0005886~plasma membrane,380000659$GO:0015935~small ribosomal subunit,
+GOTERM_MF_DIRECT	460000015$GO:0000049~tRNA binding,460000359$GO:0003735~structural constituent of ribosome,
+INTERPRO	530001527$IPR001848:Ribosomal protein S10,530015366$IPR018268:Ribosomal protein S10, conserved site,530023315$IPR027486:Ribosomal protein S10 domain,
+KEGG_PATHWAY	550042012$mtu03010:Ribosome,
+SMART	790001250$SM01403:SM01403,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000947$Ribonucleoprotein,870000949$Ribosomal protein,
+UP_SEQ_FEATURE	880001314$chain:30S ribosomal protein S10,
+
+Rv2589	4-aminobutyrate aminotransferase(gabT)
+GOTERM_BP_DIRECT	300002778$GO:0009448~gamma-aminobutyric acid metabolic process,300002780$GO:0009450~gamma-aminobutyric acid catabolic process,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000416$GO:0003867~4-aminobutyrate transaminase activity,460003550$GO:0030170~pyridoxal phosphate binding,460004822$GO:0042802~identical protein binding,460005501$GO:0047298~(S)-3-amino-2-methylpropionate transaminase activity,
+INTERPRO	530003848$IPR004632:4-aminobutyrate aminotransferase, bacterial,530004923$IPR005814:Aminotransferase class-III,530013059$IPR015421:Pyridoxal phosphate-dependent transferase, major region, subdomain 1,530013060$IPR015422:Pyridoxal phosphate-dependent transferase, major region, subdomain 2,530013062$IPR015424:Pyridoxal phosphate-dependent transferase,
+KEGG_PATHWAY	550041922$mtu00250:Alanine, aspartate and glutamate metabolism,550041926$mtu00280:Valine, leucine and isoleucine degradation,550041943$mtu00410:beta-Alanine metabolism,550041972$mtu00640:Propanoate metabolism,550041975$mtu00650:Butanoate metabolism,550041998$mtu01100:Metabolic pathways,
+UP_KEYWORDS	870000063$Aminotransferase,870000251$Complete proteome,870000912$Pyridoxal phosphate,870000928$Reference proteome,870001085$Transferase,
+UP_SEQ_FEATURE	880001568$chain:4-aminobutyrate aminotransferase,880079642$modified residue,
+
+Rv0714	50S ribosomal protein L14(rplN)
+GOTERM_BP_DIRECT	300001535$GO:0006412~translation,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000658$GO:0015934~large ribosomal subunit,380000789$GO:0022625~cytosolic large ribosomal subunit,
+GOTERM_MF_DIRECT	460000359$GO:0003735~structural constituent of ribosome,460003447$GO:0019843~rRNA binding,460006803$GO:0070180~large ribosomal subunit rRNA binding,
+INTERPRO	530000169$IPR000218:Ribosomal protein L14b/L23e,530004861$IPR005745:Ribosomal protein L14, bacterial-type,530016827$IPR019972:Ribosomal protein L14 conserved site,
+KEGG_PATHWAY	550042012$mtu03010:Ribosome,
+SMART	790001222$SM01374:SM01374,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000947$Ribonucleoprotein,870000949$Ribosomal protein,870000954$RNA-binding,870000960$rRNA-binding,
+UP_SEQ_FEATURE	880001945$chain:50S ribosomal protein L14,
+
+Rv2667	ATP-dependent protease ATP-binding subunit ClpC(clpC2)
+COG_ONTOLOGY	120000095$Posttranslational modification, protein turnover, chaperones,
+GOTERM_BP_DIRECT	300004659$GO:0019538~protein metabolic process,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+INTERPRO	530003440$IPR004176:Clp, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063735$chain:Uncharacterized protein Rv2667/MT2741,
+
+Rv2642	ArsR family transcriptional regulator(Rv2642)
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,300009632$GO:0046688~response to copper ion,
+GOTERM_CC_DIRECT	380000223$GO:0005622~intracellular,
+GOTERM_MF_DIRECT	460000343$GO:0003700~transcription factor activity, sequence-specific DNA binding,460005109$GO:0044212~transcription regulatory region DNA binding,
+INTERPRO	530001524$IPR001845:HTH ArsR-type DNA-binding domain,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,530015424$IPR018334:ArsR-type transcription regulator, HTH motif,
+SMART	790000354$SM00418:HTH_ARSR,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,
+
+Rv1822	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase(pgsA2)
+GOTERM_BP_DIRECT	300001728$GO:0006655~phosphatidylglycerol biosynthetic process,300002586$GO:0008654~phospholipid biosynthetic process,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460001749$GO:0008444~CDP-diacylglycerol-glycerol-3-phosphate 3-phosphatidyltransferase activity,
+INTERPRO	530000363$IPR000462:CDP-alcohol phosphatidyltransferase,530003792$IPR004570:CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,
+KEGG_PATHWAY	550041959$mtu00564:Glycerophospholipid metabolism,550041998$mtu01100:Metabolic pathways,
+PIR_SUPERFAMILY	700000305$PIRSF000847:CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000653$Lipid biosynthesis,870000656$Lipid metabolism,870000683$Membrane,870000836$Phospholipid biosynthesis,870000838$Phospholipid metabolism,870000928$Reference proteome,870001085$Transferase,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880041730$chain:Putative CDP-diacylglycerol--glycerol-3- phosphate 3-phosphatidyl-transferase,880089084$transmembrane region,
+
+Rv0002	DNA polymerase III subunit beta(dnaN)
+GOTERM_BP_DIRECT	300001427$GO:0006260~DNA replication,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000294$GO:0005737~cytoplasm,380000537$GO:0009360~DNA polymerase III complex,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000435$GO:0003887~DNA-directed DNA polymerase activity,460001723$GO:0008408~3'-5' exonuclease activity,
+INTERPRO	530000818$IPR001001:DNA polymerase III, beta chain,530019164$IPR022634:DNA polymerase III, beta chain, N-terminal,530019165$IPR022635:DNA polymerase III, beta chain, C-terminal,530019167$IPR022637:DNA polymerase III, beta chain, central,
+KEGG_PATHWAY	550041920$mtu00230:Purine metabolism,550041921$mtu00240:Pyrimidine metabolism,550041998$mtu01100:Metabolic pathways,550042015$mtu03030:DNA replication,550042021$mtu03430:Mismatch repair,550042022$mtu03440:Homologous recombination,
+PIR_SUPERFAMILY	700000288$PIRSF000804:DNA polymerase III, beta subunit,
+SMART	790000415$SM00480:POL3Bc,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000288$Cytoplasm,870000328$DNA replication,870000332$DNA-directed DNA polymerase,870000787$Nucleotidyltransferase,870000928$Reference proteome,870001085$Transferase,
+UP_SEQ_FEATURE	880012775$chain:DNA polymerase III subunit beta,880087857$sequence conflict,
+
+Rv0500A	DNA-binding protein(Rv0500A)
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530007738$IPR009061:DNA binding domain, putative,530008654$IPR010093:Excisionase/Xis, DNA-binding,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,
+
+Rv0667	DNA-directed RNA polymerase subunit beta(rpoB)
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300007714$GO:0040007~growth,300009625$GO:0046677~response to antibiotic,
+GOTERM_CC_DIRECT	380000073$GO:0000428~DNA-directed RNA polymerase complex,380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000437$GO:0003899~DNA-directed RNA polymerase activity,460003980$GO:0032549~ribonucleoside binding,
+INTERPRO	530006070$IPR007120:DNA-directed RNA polymerase, subunit 2, domain 6,530006071$IPR007121:RNA polymerase, beta subunit, conserved site,530006543$IPR007641:RNA polymerase Rpb2, domain 7,530006544$IPR007642:RNA polymerase Rpb2, domain 2,530006546$IPR007644:RNA polymerase, beta subunit, protrusion,530006547$IPR007645:RNA polymerase Rpb2, domain 3,530008795$IPR010243:DNA-directed RNA polymerase, beta subunit,530012418$IPR014724:RNA polymerase Rpb2, OB-fold,530013198$IPR015712:DNA-directed RNA polymerase, subunit 2,530016370$IPR019462:DNA-directed RNA polymerase, beta subunit, external 1 domain,
+KEGG_PATHWAY	550041920$mtu00230:Purine metabolism,550041921$mtu00240:Pyrimidine metabolism,550041998$mtu01100:Metabolic pathways,550042014$mtu03020:RNA polymerase,
+UP_KEYWORDS	870000010$3D-structure,870000077$Antibiotic resistance,870000251$Complete proteome,870000333$DNA-directed RNA polymerase,870000787$Nucleotidyltransferase,870000928$Reference proteome,870001077$Transcription,870001085$Transferase,
+UP_SEQ_FEATURE	880013179$chain:DNA-directed RNA polymerase subunit beta,880087857$sequence conflict,880087858$sequence variant,
+
+Rv2069	ECF RNA polymerase sigma factor SigC(sigC)
+GOTERM_BP_DIRECT	300000360$GO:0001666~response to hypoxia,300001491$GO:0006352~DNA-templated transcription, initiation,300001494$GO:0006355~regulation of transcription, DNA-templated,300002753$GO:0009405~pathogenesis,300002755$GO:0009408~response to heat,300002757$GO:0009410~response to xenobiotic stimulus,300002761$GO:0009415~response to water,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000343$GO:0003700~transcription factor activity, sequence-specific DNA binding,460003024$GO:0016987~sigma factor activity,
+INTERPRO	530000683$IPR000838:RNA polymerase sigma factor 70, ECF, conserved site,530006530$IPR007627:RNA polymerase sigma-70 region 2,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,530011202$IPR013249:RNA polymerase sigma factor 70, region 4 type 2,530011269$IPR013324:RNA polymerase sigma factor, region 3/4,530011270$IPR013325:RNA polymerase sigma factor, region 2,530012136$IPR014284:RNA polymerase sigma-70 like domain,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870000991$Sigma factor,870001077$Transcription,870001079$Transcription regulation,
+UP_SEQ_FEATURE	880036202$chain:Probable RNA polymerase sigma-C factor,880076426$DNA-binding region:H-T-H motif,880079268$helix,880088206$short sequence motif:Polymerase core binding,880089085$turn,
+
+Rv1221	ECF RNA polymerase sigma factor SigE(sigE)
+GOTERM_BP_DIRECT	300001491$GO:0006352~DNA-templated transcription, initiation,300002753$GO:0009405~pathogenesis,300002755$GO:0009408~response to heat,300002757$GO:0009410~response to xenobiotic stimulus,300008025$GO:0042542~response to hydrogen peroxide,300008619$GO:0044119~growth of symbiont in host cell,300011047$GO:0052572~response to host immune response,300013598$GO:0090034~regulation of chaperone-mediated protein complex assembly,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000343$GO:0003700~transcription factor activity, sequence-specific DNA binding,460003024$GO:0016987~sigma factor activity,
+INTERPRO	530006530$IPR007627:RNA polymerase sigma-70 region 2,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,530011202$IPR013249:RNA polymerase sigma factor 70, region 4 type 2,530011269$IPR013324:RNA polymerase sigma factor, region 3/4,530011270$IPR013325:RNA polymerase sigma factor, region 2,530012136$IPR014284:RNA polymerase sigma-70 like domain,
+UP_KEYWORDS	870000054$Alternative promoter usage,870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870000991$Sigma factor,870001077$Transcription,870001079$Transcription regulation,
+
+Rv3911	ECF RNA polymerase sigma factor SigM(sigM)
+GOTERM_BP_DIRECT	300001491$GO:0006352~DNA-templated transcription, initiation,300002757$GO:0009410~response to xenobiotic stimulus,300002761$GO:0009415~response to water,300009244$GO:0045893~positive regulation of transcription, DNA-templated,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000343$GO:0003700~transcription factor activity, sequence-specific DNA binding,460003024$GO:0016987~sigma factor activity,
+INTERPRO	530006530$IPR007627:RNA polymerase sigma-70 region 2,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,530011202$IPR013249:RNA polymerase sigma factor 70, region 4 type 2,530011269$IPR013324:RNA polymerase sigma factor, region 3/4,530011270$IPR013325:RNA polymerase sigma factor, region 2,530012136$IPR014284:RNA polymerase sigma-70 like domain,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870000991$Sigma factor,870001077$Transcription,870001079$Transcription regulation,
+
+Rv3871	ESX-1 secretion system protein EccCb(eccCb1)
+GOTERM_BP_DIRECT	300002753$GO:0009405~pathogenesis,300008136$GO:0042783~active evasion of host immune response,300008618$GO:0044117~growth of symbiont in host,300008671$GO:0044315~protein secretion by the type VII secretion system,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000294$GO:0005737~cytoplasm,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460001536$GO:0005524~ATP binding,
+INTERPRO	530002100$IPR002543:Cell division protein FtsK/SpoIIIE,530002940$IPR003593:AAA+ ATPase domain,530020204$IPR023837:Type VII secretion system EccCb,530023254$IPR027417:P-loop containing nucleoside triphosphate hydrolase,
+SMART	790000325$SM00382:AAA,
+UP_KEYWORDS	870000104$ATP-binding,870000251$Complete proteome,870000288$Cytoplasm,870000786$Nucleotide-binding,870000928$Reference proteome,870000935$Repeat,
+
+Rv3448	ESX-4 secretion system protein EccD4(eccD4)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530005715$IPR006707:Type VII secretion system membrane protein EccD,530021158$IPR024962:YukD-like,
+PIR_SUPERFAMILY	700001712$PIRSF017804:secretion system protein, EccD1 type,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1782	ESX-5 type VII secretion system protein EccB5(eccB5)
+GOTERM_BP_DIRECT	300001846$GO:0006810~transport,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530006686$IPR007795:Type VII secretion system EccB,
+UP_KEYWORDS	870000104$ATP-binding,870000188$Cell inner membrane,870000190$Cell membrane,870000251$Complete proteome,870000319$Disulfide bond,870000516$Hydrolase,870000683$Membrane,870000786$Nucleotide-binding,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+
+Rv1795	ESX-5 type VII secretion system protein EccD(eccD5)
+GOTERM_BP_DIRECT	300001846$GO:0006810~transport,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530005715$IPR006707:Type VII secretion system membrane protein EccD,530021158$IPR024962:YukD-like,
+PIR_SUPERFAMILY	700001712$PIRSF017804:secretion system protein, EccD1 type,
+UP_KEYWORDS	870000188$Cell inner membrane,870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+
+Rv1173	FO synthase(fbiC)
+GOTERM_BP_DIRECT	300002632$GO:0009108~coenzyme biosynthetic process,300010717$GO:0051409~response to nitrosative stress,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460002907$GO:0016765~transferase activity, transferring alkyl or aryl (other than methyl) groups,460005143$GO:0044689~7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase activity,460005313$GO:0046872~metal ion binding,460006372$GO:0051539~4 iron, 4 sulfur cluster binding,
+INTERPRO	530005662$IPR006638:Elongator protein 3/MiaB/NifB,530006140$IPR007197:Radical SAM,530011680$IPR013785:Aldolase-type TIM barrel,530016795$IPR019939:CofG family,530016796$IPR019940:CofH family,530016896$IPR020050:FO synthase, subunit 2,
+SMART	790000624$SM00729:Elp3,
+UP_KEYWORDS	870000013$4Fe-4S,870000251$Complete proteome,870000604$Iron,870000607$Iron-sulfur,870000691$Metal-binding,870000928$Reference proteome,870000963$S-adenosyl-L-methionine,870001085$Transferase,
+UP_SEQ_FEATURE	880016365$chain:FO synthase,880079471$metal ion-binding site:Iron-sulfur (4Fe-4S-S-AdoMet),
+
+Rv3044	FeIII-dicitrate-binding periplasmic lipoprotein(fecB)
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000407$GO:0005886~plasma membrane,
+INTERPRO	530002054$IPR002491:ABC transporter periplasmic binding domain,
+KEGG_PATHWAY	550042010$mtu02010:ABC transporters,
+UP_KEYWORDS	870000251$Complete proteome,870000660$Lipoprotein,870000928$Reference proteome,870000992$Signal,
+
+Rv3789	GtrA family protein(Rv3789)
+GOTERM_BP_DIRECT	300000087$GO:0000271~polysaccharide biosynthetic process,300001846$GO:0006810~transport,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530006208$IPR007267:GtrA-like protein,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880063783$chain:Uncharacterized protein Rv3789/MT3897,880089084$transmembrane region,
+
+Rv3744	HTH-type transcriptional regulator NmtR(nmtR)
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300004498$GO:0019217~regulation of fatty acid metabolic process,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000343$GO:0003700~transcription factor activity, sequence-specific DNA binding,460005313$GO:0046872~metal ion binding,
+INTERPRO	530001524$IPR001845:HTH ArsR-type DNA-binding domain,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,
+SMART	790000354$SM00418:HTH_ARSR,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000691$Metal-binding,870000769$Nickel,870000928$Reference proteome,870000937$Repressor,870001077$Transcription,870001079$Transcription regulation,
+
+Rv0081	HTH-type transcriptional regulator(Rv0081)
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000343$GO:0003700~transcription factor activity, sequence-specific DNA binding,460005109$GO:0044212~transcription regulatory region DNA binding,
+INTERPRO	530001524$IPR001845:HTH ArsR-type DNA-binding domain,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,
+SMART	790000354$SM00418:HTH_ARSR,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,
+
+Rv0196	HTH-type transcriptional regulator(Rv0196)
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530001362$IPR001647:DNA-binding HTH domain, TetR-type,530007736$IPR009057:Homeodomain-like,530009503$IPR011075:Tetracycline transcriptional regulator, TetR-related, C-terminal,530013309$IPR015893:Tetracycline transcriptional regulator, TetR-like, C-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,
+UP_SEQ_FEATURE	880057076$chain:Uncharacterized HTH-type transcriptional regulator Rv0196/MT0206,880076426$DNA-binding region:H-T-H motif,880077650$domain:HTH tetR-type,
+
+Rv3855	HTH-type transcriptional repressor EthR(ethR)
+COG_ONTOLOGY	120000115$Transcription,
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,300009243$GO:0045892~negative regulation of transcription, DNA-templated,300009625$GO:0046677~response to antibiotic,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+GOTERM_MF_DIRECT	460000106$GO:0000976~transcription regulatory region sequence-specific DNA binding,460000330$GO:0003677~DNA binding,460000343$GO:0003700~transcription factor activity, sequence-specific DNA binding,
+INTERPRO	530001362$IPR001647:DNA-binding HTH domain, TetR-type,530007736$IPR009057:Homeodomain-like,530009503$IPR011075:Tetracycline transcriptional regulator, TetR-related, C-terminal,530013309$IPR015893:Tetracycline transcriptional regulator, TetR-like, C-terminal,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870000937$Repressor,870001077$Transcription,870001079$Transcription regulation,
+
+Rv2780	L-alanine dehydrogenase(ald)
+GOTERM_BP_DIRECT	300000360$GO:0001666~response to hypoxia,300001613$GO:0006524~alanine catabolic process,300008166$GO:0042853~L-alanine catabolic process,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000031$GO:0000166~nucleotide binding,460000057$GO:0000286~alanine dehydrogenase activity,460005313$GO:0046872~metal ion binding,
+INTERPRO	530006595$IPR007698:Alanine dehydrogenase/PNT, NAD(H)-binding domain,530006770$IPR007886:Alanine dehydrogenase/pyridine nucleotide transhydrogenase, N-terminal,530006993$IPR008141:Alanine dehydrogenase/pyridine nucleotide transhydrogenase,530006994$IPR008142:Alanine dehydrogenase/pyridine nucleotide transhydrogenase, conserved site-1,530006995$IPR008143:Alanine dehydrogenase/pyridine nucleotide transhydrogenase, conserved site-2,530013409$IPR016040:NAD(P)-binding domain,
+KEGG_PATHWAY	550041922$mtu00250:Alanine, aspartate and glutamate metabolism,550041944$mtu00430:Taurine and hypotaurine metabolism,550041998$mtu01100:Metabolic pathways,
+PIR_SUPERFAMILY	700000084$PIRSF000183:alanine dehydrogenase,
+SMART	790000885$SM01002:SM01002,790000886$SM01003:SM01003,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000317$Direct protein sequencing,870000670$Magnesium,870000691$Metal-binding,870000753$NAD,870000786$Nucleotide-binding,870000802$Oxidoreductase,870000928$Reference proteome,870000970$Secreted,
+UP_SEQ_FEATURE	880003673$chain:Alanine dehydrogenase,880079268$helix,880079685$nucleotide phosphate-binding region:NAD,880087857$sequence conflict,880089040$strand,880089085$turn,
+
+Rv1877	MFS-type transporter(Rv1877)
+GOTERM_BP_DIRECT	300011111$GO:0055085~transmembrane transport,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460001387$GO:0005215~transporter activity,
+INTERPRO	530001622$IPR001958:Tetracycline resistance protein, TetA/multidrug resistance protein MdtG,530004936$IPR005829:Sugar transporter, conserved site,530009980$IPR011701:Major facilitator superfamily,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,530017485$IPR020846:Major facilitator superfamily domain,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+UP_SEQ_FEATURE	880057867$chain:Uncharacterized MFS-type transporter Rv1877/MT1926,880089084$transmembrane region,
+
+Rv0589	Mce family protein Mce2A(mce2A)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+INTERPRO	530002773$IPR003399:Mammalian cell entry-related,530004812$IPR005693:Mammalian cell entry,530020800$IPR024516:Mammalian cell entry, C-terminal,
+KEGG_PATHWAY	550042010$mtu02010:ABC transporters,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv3334	MerR family transcriptional regulator(Rv3334)
+COG_ONTOLOGY	120000115$Transcription,
+GOTERM_BP_DIRECT	300001494$GO:0006355~regulation of transcription, DNA-templated,300004498$GO:0019217~regulation of fatty acid metabolic process,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530000441$IPR000551:Transcription regulator HTH, MerR,530007738$IPR009061:DNA binding domain, putative,530013001$IPR015358:Transcription regulator MerR, DNA binding,
+SMART	790000358$SM00422:HTH_MERR,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1811	Mg2+ transport P-type ATPase MgtC(mgtC)
+COG_ONTOLOGY	120000070$Function unknown,
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+INTERPRO	530002785$IPR003416:MgtC/SapB/SrpB transporter,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv0362	Mg2+ transport transmembrane protein MgtE(mgtE)
+COG_ONTOLOGY	120000075$Inorganic ion transport and metabolism,
+GOTERM_BP_DIRECT	300003889$GO:0015693~magnesium ion transport,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460002350$GO:0015095~magnesium ion transmembrane transporter activity,460005313$GO:0046872~metal ion binding,
+INTERPRO	530000516$IPR000644:Cystathionine beta-synthase, core,530005682$IPR006667:SLC41 divalent cation transporters, integral membrane domain,530005683$IPR006668:Magnesium transporter, MgtE intracellular domain,530005684$IPR006669:Divalent cation transporter,
+SMART	790000102$SM00116:CBS,790000809$SM00924:SM00924,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000670$Magnesium,870000683$Membrane,870000691$Metal-binding,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+
+Rv3145	NADH-quinone oxidoreductase subunit A(nuoA)
+GOTERM_BP_DIRECT	300001846$GO:0006810~transport,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460001607$GO:0008137~NADH dehydrogenase (ubiquinone) activity,460005885$GO:0048038~quinone binding,
+INTERPRO	530000349$IPR000440:NADH:ubiquinone/plastoquinone oxidoreductase, chain 3,530019508$IPR023043:NAD(P)H-quinone oxidoreductase subunit 3, bacterial/plastid,
+KEGG_PATHWAY	550041918$mtu00190:Oxidative phosphorylation,550041998$mtu01100:Metabolic pathways,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000753$NAD,870000802$Oxidoreductase,870000921$Quinone,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+UP_SEQ_FEATURE	880027789$chain:NADH-quinone oxidoreductase subunit A,880089084$transmembrane region,
+
+Rv3045	NADP-dependent alcohol dehydrogenase(adhC)
+COG_ONTOLOGY	120000073$General function prediction only,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460001585$GO:0008106~alcohol dehydrogenase (NADP+) activity,460001672$GO:0008270~zinc ion binding,460002784$GO:0016491~oxidoreductase activity,
+INTERPRO	530001724$IPR002085:Alcohol dehydrogenase superfamily, zinc-type,530001930$IPR002328:Alcohol dehydrogenase, zinc-type, conserved site,530009466$IPR011032:GroES-like,530011120$IPR013149:Alcohol dehydrogenase, C-terminal,530011125$IPR013154:Alcohol dehydrogenase GroES-like,530013409$IPR016040:NAD(P)-binding domain,530017482$IPR020843:Polyketide synthase, enoylreductase,
+SMART	790000714$SM00829:SM00829,
+UP_KEYWORDS	870000030$Acetylation,870000251$Complete proteome,870000610$Isopeptide bond,870000691$Metal-binding,870000754$NADP,870000802$Oxidoreductase,870000928$Reference proteome,870001125$Ubl conjugation,870001206$Zinc,
+UP_SEQ_FEATURE	880027861$chain:NADP-dependent alcohol dehydrogenase C,880079606$metal ion-binding site:Zinc 1; catalytic,880079612$metal ion-binding site:Zinc 2,
+
+Rv2287	Na(+)/H(+) transporter(yjcE)
+GOTERM_BP_DIRECT	300001850$GO:0006814~sodium ion transport,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460002493$GO:0015299~solute:proton antiporter activity,
+INTERPRO	530003919$IPR004705:Cation/H+ exchanger, CPA1 family, bacteria,530005222$IPR006153:Cation/H+ exchanger,530015471$IPR018422:Cation/H+ exchanger, CPA1 family,
+UP_KEYWORDS	870000080$Antiport,870000190$Cell membrane,870000251$Complete proteome,870000603$Ion transport,870000683$Membrane,870000928$Reference proteome,870000999$Sodium,870001001$Sodium transport,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+UP_SEQ_FEATURE	880058134$chain:Uncharacterized Na(+)/H(+) exchanger Rv2287/MT2345,880089084$transmembrane region,
+
+Rv1195	PE family protein PE13(PE13)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000194$Cell wall,870000251$Complete proteome,870000928$Reference proteome,870000970$Secreted,870001183$Virulence,
+
+Rv1386	PE family protein PE15(PE15)
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000970$Secreted,870001183$Virulence,
+UP_SEQ_FEATURE	880058323$chain:Uncharacterized PE family protein PE15,880088358$signal peptide,
+
+Rv1430	PE family protein PE16(PE16)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,530011184$IPR013228:PE-PPE, C-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1646	PE family protein PE17(PE17)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3477	PE family protein PE31(PE31)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv0109	PE-PGRS family protein PE_PGRS1(PE_PGRS1)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv0832	PE-PGRS family protein PE_PGRS12(PE_PGRS12)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv0124	PE-PGRS family protein PE_PGRS2(PE_PGRS2)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv1087	PE-PGRS family protein PE_PGRS21(PE_PGRS21)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1091	PE-PGRS family protein PE_PGRS22(PE_PGRS22)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1768	PE-PGRS family protein PE_PGRS31(PE_PGRS31)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv1983	PE-PGRS family protein PE_PGRS35(PE_PGRS35)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880058331$chain:Uncharacterized PE-PGRS family protein PE_PGRS35,880075986$compositionally biased region:Ala-rich,880089084$transmembrane region,
+
+Rv2741	PE-PGRS family protein PE_PGRS47(PE_PGRS47)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000492$Host cytoplasm,870000928$Reference proteome,870000970$Secreted,870001183$Virulence,
+
+Rv0297	PE-PGRS family protein PE_PGRS5(PE_PGRS5)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3367	PE-PGRS family protein PE_PGRS51(PE_PGRS51)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv3388	PE-PGRS family protein PE_PGRS52(PE_PGRS52)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv3508	PE-PGRS family protein PE_PGRS54(PE_PGRS54)
+INTERPRO	530000064$IPR000084:PE-PGRS family, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000935$Repeat,
+UP_SEQ_FEATURE	880058335$chain:Uncharacterized PE-PGRS family protein PE_PGRS54,880088358$signal peptide,
+
+Rv0453	PPE family protein PPE11(PPE11)
+COG_ONTOLOGY	120000037$Cell motility and secretion,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000365$GO:0005829~cytosol,
+INTERPRO	530000021$IPR000030:PPE family,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880058390$chain:Uncharacterized PPE family protein PPE11,880075986$compositionally biased region:Ala-rich,880087857$sequence conflict,
+
+Rv0280	PPE family protein PPE3(PPE3)
+COG_ONTOLOGY	120000037$Cell motility and secretion,
+INTERPRO	530000021$IPR000030:PPE family,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880058407$chain:Uncharacterized PPE family protein PPE3,880075986$compositionally biased region:Ala-rich,880087857$sequence conflict,
+
+Rv1808	PPE family protein PPE32(PPE32)
+INTERPRO	530000021$IPR000030:PPE family,530018729$IPR022171:PPE family, C-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880058409$chain:Uncharacterized PPE family protein PPE32,880075986$compositionally biased region:Ala-rich,
+
+Rv3136	PPE family protein PPE51(PPE51)
+COG_ONTOLOGY	120000037$Cell motility and secretion,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,
+INTERPRO	530000021$IPR000030:PPE family,530018729$IPR022171:PPE family, C-terminal,
+UP_KEYWORDS	870000030$Acetylation,870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880058422$chain:Uncharacterized PPE family protein PPE51,880075986$compositionally biased region:Ala-rich,
+
+Rv0145	S-adenosylmethionine-dependent methyltransferase(Rv0145)
+GOTERM_BP_DIRECT	300005864$GO:0032259~methylation,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+GOTERM_MF_DIRECT	460001620$GO:0008168~methyltransferase activity,460001927$GO:0008757~S-adenosylmethionine-dependent methyltransferase activity,
+INTERPRO	530006155$IPR007213:Leucine carboxyl methyltransferase,530009901$IPR011610:S-adenosyl-L-methionine-dependent methyltransferase, putative,
+UP_KEYWORDS	870000251$Complete proteome,870000701$Methyltransferase,870000928$Reference proteome,870000963$S-adenosyl-L-methionine,870001085$Transferase,
+UP_SEQ_FEATURE	880000487$binding site:S-adenosyl-L-methionine,880044579$chain:Putative S-adenosyl-L-methionine- dependent methyltransferase Rv0145/MT0153,880085270$region of interest:S-adenosyl-L-methionine binding,
+
+Rv0146	S-adenosylmethionine-dependent methyltransferase(Rv0146)
+GOTERM_BP_DIRECT	300005864$GO:0032259~methylation,300011042$GO:0052556~positive regulation by symbiont of host immune response,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460001927$GO:0008757~S-adenosylmethionine-dependent methyltransferase activity,
+INTERPRO	530006155$IPR007213:Leucine carboxyl methyltransferase,530009901$IPR011610:S-adenosyl-L-methionine-dependent methyltransferase, putative,
+UP_KEYWORDS	870000251$Complete proteome,870000701$Methyltransferase,870000928$Reference proteome,870000963$S-adenosyl-L-methionine,870001085$Transferase,
+UP_SEQ_FEATURE	880000487$binding site:S-adenosyl-L-methionine,880044580$chain:Putative S-adenosyl-L-methionine- dependent methyltransferase Rv0146,880085270$region of interest:S-adenosyl-L-methionine binding,
+
+Rv0830	S-adenosylmethionine-dependent methyltransferase(Rv0830)
+GOTERM_BP_DIRECT	300005864$GO:0032259~methylation,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460001620$GO:0008168~methyltransferase activity,460001927$GO:0008757~S-adenosylmethionine-dependent methyltransferase activity,
+INTERPRO	530006155$IPR007213:Leucine carboxyl methyltransferase,530009901$IPR011610:S-adenosyl-L-methionine-dependent methyltransferase, putative,
+UP_KEYWORDS	870000251$Complete proteome,870000701$Methyltransferase,870000928$Reference proteome,870000963$S-adenosyl-L-methionine,870001085$Transferase,
+UP_SEQ_FEATURE	880000487$binding site:S-adenosyl-L-methionine,880044584$chain:Putative S-adenosyl-L-methionine- dependent methyltransferase Rv0830/MT0851,880085270$region of interest:S-adenosyl-L-methionine binding,
+
+Rv2259	S-nitrosomycothiol reductase MscR(mscR)
+GOTERM_BP_DIRECT	300003148$GO:0010127~mycothiol-dependent detoxification,300010998$GO:0052060~evasion or tolerance by symbiont of host-produced nitric oxide,300011127$GO:0055114~oxidation-reduction process,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+GOTERM_MF_DIRECT	460001672$GO:0008270~zinc ion binding,460002784$GO:0016491~oxidoreductase activity,460002820$GO:0016620~oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor,460006235$GO:0050607~mycothiol-dependent formaldehyde dehydrogenase activity,
+INTERPRO	530001724$IPR002085:Alcohol dehydrogenase superfamily, zinc-type,530001930$IPR002328:Alcohol dehydrogenase, zinc-type, conserved site,530009466$IPR011032:GroES-like,530011120$IPR013149:Alcohol dehydrogenase, C-terminal,530011125$IPR013154:Alcohol dehydrogenase GroES-like,530013409$IPR016040:NAD(P)-binding domain,530015012$IPR017816:S-(hydroxymethyl)mycothiol dehydrogenase,530017482$IPR020843:Polyketide synthase, enoylreductase,
+SMART	790000714$SM00829:SM00829,
+UP_KEYWORDS	870000251$Complete proteome,870000691$Metal-binding,870000928$Reference proteome,870001206$Zinc,
+
+Rv2506	TetR family transcriptional regulator(Rv2506)
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,300008136$GO:0042783~active evasion of host immune response,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+GOTERM_MF_DIRECT	460000106$GO:0000976~transcription regulatory region sequence-specific DNA binding,460000343$GO:0003700~transcription factor activity, sequence-specific DNA binding,
+INTERPRO	530001362$IPR001647:DNA-binding HTH domain, TetR-type,530007736$IPR009057:Homeodomain-like,530009503$IPR011075:Tetracycline transcriptional regulator, TetR-related, C-terminal,530013309$IPR015893:Tetracycline transcriptional regulator, TetR-like, C-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,
+
+Rv1315	UDP-N-acetylglucosamine 1-carboxyvinyltransferase(murA)
+GOTERM_BP_DIRECT	300002018$GO:0007049~cell cycle,300002536$GO:0008360~regulation of cell shape,300002701$GO:0009252~peptidoglycan biosynthetic process,300004529$GO:0019277~UDP-N-acetylgalactosamine biosynthetic process,300007714$GO:0040007~growth,300010674$GO:0051301~cell division,300012874$GO:0071555~cell wall organization,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,
+GOTERM_MF_DIRECT	460001930$GO:0008760~UDP-N-acetylglucosamine 1-carboxyvinyltransferase activity,
+INTERPRO	530001642$IPR001986:Enolpyruvate transferase domain,530004866$IPR005750:UDP-N-acetylglucosamine 1-carboxyvinyltransferase,530011687$IPR013792:RNA 3'-terminal phosphate cyclase/enolpyruvate transferase, alpha/beta,
+KEGG_PATHWAY	550041952$mtu00520:Amino sugar and nucleotide sugar metabolism,550041956$mtu00550:Peptidoglycan biosynthesis,550041998$mtu01100:Metabolic pathways,
+UP_KEYWORDS	870000186$Cell cycle,870000187$Cell division,870000193$Cell shape,870000195$Cell wall biogenesis/degradation,870000251$Complete proteome,870000288$Cytoplasm,870000610$Isopeptide bond,870000815$Peptidoglycan synthesis,870000928$Reference proteome,870001085$Transferase,870001125$Ubl conjugation,
+UP_SEQ_FEATURE	880000126$active site:Proton donor,880055940$chain:UDP-N-acetylglucosamine 1- carboxyvinyltransferase,
+
+Rv0501	UDP-glucose 4-epimerase GalE(galE2)
+COG_ONTOLOGY	120000033$Cell envelope biogenesis, outer membrane / Carbohydrate transport and metabolism,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000373$GO:0003824~catalytic activity,460006267$GO:0050662~coenzyme binding,
+INTERPRO	530001248$IPR001509:NAD-dependent epimerase/dehydratase,530013409$IPR016040:NAD(P)-binding domain,
+KEGG_PATHWAY	550041911$mtu00052:Galactose metabolism,550041952$mtu00520:Amino sugar and nucleotide sugar metabolism,550041998$mtu01100:Metabolic pathways,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063486$chain:Uncharacterized protein Rv0501/MT0522,
+
+Rv1094	acyl-ACP desaturase DesA(desA2)
+GOTERM_BP_DIRECT	300001710$GO:0006631~fatty acid metabolic process,300001711$GO:0006633~fatty acid biosynthetic process,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460005195$GO:0045300~acyl-[acyl-carrier-protein] desaturase activity,460005313$GO:0046872~metal ion binding,
+INTERPRO	530004246$IPR005067:Fatty acid desaturase, type 2,530007751$IPR009078:Ferritin-like superfamily,530010452$IPR012348:Ribonucleotide reductase-related,
+KEGG_PATHWAY	550041913$mtu00061:Fatty acid biosynthesis,550041996$mtu01040:Biosynthesis of unsaturated fatty acids,550042004$mtu01212:Fatty acid metabolism,
+PIR_SUPERFAMILY	700000135$PIRSF000346:Delta-9 acyl-ACP desaturase,
+UP_KEYWORDS	870000010$3D-structure,870000030$Acetylation,870000251$Complete proteome,870000377$Fatty acid biosynthesis,870000378$Fatty acid metabolism,870000604$Iron,870000610$Isopeptide bond,870000653$Lipid biosynthesis,870000656$Lipid metabolism,870000691$Metal-binding,870000802$Oxidoreductase,870000928$Reference proteome,870001125$Ubl conjugation,
+
+Rv0873	acyl-CoA dehydrogenase(fadE10)
+COG_ONTOLOGY	120000084$Lipid metabolism,
+GOTERM_BP_DIRECT	300006411$GO:0033539~fatty acid beta-oxidation using acyl-CoA dehydrogenase,300011113$GO:0055088~lipid homeostasis,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000016$GO:0000062~fatty-acyl-CoA binding,460000509$GO:0003995~acyl-CoA dehydrogenase activity,460002172$GO:0009055~electron carrier activity,460006265$GO:0050660~flavin adenine dinucleotide binding,460006638$GO:0052890~oxidoreductase activity, acting on the CH-CH group of donors, with a flavin as acceptor,
+INTERPRO	530005167$IPR006091:Acyl-CoA oxidase/dehydrogenase, central domain,530007748$IPR009075:Acyl-CoA dehydrogenase/oxidase C-terminal,530007769$IPR009100:Acyl-CoA dehydrogenase/oxidase,530011681$IPR013786:Acyl-CoA dehydrogenase/oxidase, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000374$FAD,870000388$Flavoprotein,870000802$Oxidoreductase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063493$chain:Uncharacterized protein Rv0873/MT0896,880075986$compositionally biased region:Ala-rich,
+
+Rv0859	acyltransferase(Rv0859)
+GOTERM_BP_DIRECT	300001712$GO:0006635~fatty acid beta-oxidation,300002484$GO:0008152~metabolic process,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000499$GO:0003985~acetyl-CoA C-acetyltransferase activity,460000502$GO:0003988~acetyl-CoA C-acyltransferase activity,
+INTERPRO	530001783$IPR002155:Thiolase,530013408$IPR016039:Thiolase-like,530017389$IPR020610:Thiolase, active site,530017392$IPR020613:Thiolase, conserved site,530017393$IPR020615:Thiolase, acyl-enzyme intermediate active site,530017394$IPR020616:Thiolase, N-terminal,530017395$IPR020617:Thiolase, C-terminal,
+KEGG_PATHWAY	550041914$mtu00071:Fatty acid degradation,550041915$mtu00072:Synthesis and degradation of ketone bodies,550041926$mtu00280:Valine, leucine and isoleucine degradation,550041930$mtu00310:Lysine degradation,550041938$mtu00362:Benzoate degradation,550041940$mtu00380:Tryptophan metabolism,550041963$mtu00620:Pyruvate metabolism,550041970$mtu00630:Glyoxylate and dicarboxylate metabolism,550041972$mtu00640:Propanoate metabolism,550041975$mtu00650:Butanoate metabolism,550041988$mtu00900:Terpenoid backbone biosynthesis,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042002$mtu01200:Carbon metabolism,550042004$mtu01212:Fatty acid metabolism,550042011$mtu02020:Two-component system,
+PIR_SUPERFAMILY	700000168$PIRSF000429:acetyl-CoA acetyltransferase,
+UP_KEYWORDS	870000010$3D-structure,870000039$Acyltransferase,870000251$Complete proteome,870000610$Isopeptide bond,870000928$Reference proteome,870001085$Transferase,870001125$Ubl conjugation,
+
+Rv1568	adenosylmethionine--8-amino-7-oxononanoate aminotransferase BioA(bioA)
+GOTERM_BP_DIRECT	300002628$GO:0009102~biotin biosynthetic process,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,
+GOTERM_MF_DIRECT	460000522$GO:0004015~adenosylmethionine-8-amino-7-oxononanoate transaminase activity,460003550$GO:0030170~pyridoxal phosphate binding,460004822$GO:0042802~identical protein binding,
+INTERPRO	530004923$IPR005814:Aminotransferase class-III,530004924$IPR005815:Adenosylmethionine--8-amino-7-oxononanoate aminotransferase BioA,530013059$IPR015421:Pyridoxal phosphate-dependent transferase, major region, subdomain 1,530013060$IPR015422:Pyridoxal phosphate-dependent transferase, major region, subdomain 2,530013062$IPR015424:Pyridoxal phosphate-dependent transferase,
+KEGG_PATHWAY	550041984$mtu00780:Biotin metabolism,550041998$mtu01100:Metabolic pathways,
+UP_KEYWORDS	870000010$3D-structure,870000063$Aminotransferase,870000141$Biotin biosynthesis,870000251$Complete proteome,870000288$Cytoplasm,870000912$Pyridoxal phosphate,870000928$Reference proteome,870000963$S-adenosyl-L-methionine,870001085$Transferase,
+UP_SEQ_FEATURE	880000178$binding site:7-keto-8-aminopelargonic acid,880000179$binding site:7-keto-8-aminopelargonic acid; via carbonyl oxygen,880000476$binding site:Pyridoxal phosphate,880003409$chain:Adenosylmethionine-8-amino-7-oxononanoate aminotransferase,880079268$helix,880079642$modified residue,880081601$region of interest:7-keto-8-aminopelargonic acid,880084873$region of interest:Pyridoxal phosphate binding,880089040$strand,880089085$turn,
+
+Rv1530	alcohol dehydrogenase(adh)
+COG_ONTOLOGY	120000010$Amino acid transport and metabolism / General function prediction only,120000073$General function prediction only,
+GOTERM_MF_DIRECT	460000529$GO:0004022~alcohol dehydrogenase (NAD) activity,460001672$GO:0008270~zinc ion binding,460002784$GO:0016491~oxidoreductase activity,
+INTERPRO	530001724$IPR002085:Alcohol dehydrogenase superfamily, zinc-type,530001930$IPR002328:Alcohol dehydrogenase, zinc-type, conserved site,530009466$IPR011032:GroES-like,530011120$IPR013149:Alcohol dehydrogenase, C-terminal,530011125$IPR013154:Alcohol dehydrogenase GroES-like,530013409$IPR016040:NAD(P)-binding domain,
+KEGG_PATHWAY	550041906$mtu00010:Glycolysis / Gluconeogenesis,550041914$mtu00071:Fatty acid degradation,550041935$mtu00350:Tyrosine metabolism,550041967$mtu00625:Chloroalkane and chloroalkene degradation,550041968$mtu00626:Naphthalene degradation,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042005$mtu01220:Degradation of aromatic compounds,
+UP_KEYWORDS	870000251$Complete proteome,870000691$Metal-binding,870000753$NAD,870000802$Oxidoreductase,870000928$Reference proteome,870001206$Zinc,
+UP_SEQ_FEATURE	880027861$chain:NADP-dependent alcohol dehydrogenase C,880033681$chain:Probable alcohol dehydrogenase adh,880079606$metal ion-binding site:Zinc 1; catalytic,880079612$metal ion-binding site:Zinc 2,
+
+Rv2428	alkyl hydroperoxide reductase subunit AhpC(ahpC)
+COG_ONTOLOGY	120000095$Posttranslational modification, protein turnover, chaperones,
+GOTERM_BP_DIRECT	300008997$GO:0045454~cell redox homeostasis,300010717$GO:0051409~response to nitrosative stress,300010997$GO:0052059~evasion or tolerance by symbiont of host-produced reactive oxygen species,300010998$GO:0052060~evasion or tolerance by symbiont of host-produced nitric oxide,300011127$GO:0055114~oxidation-reduction process,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000930$GO:0004601~peroxidase activity,460001953$GO:0008785~alkyl hydroperoxide reductase activity,460002784$GO:0016491~oxidoreductase activity,460004000$GO:0032843~hydroperoxide reductase activity,460006426$GO:0051920~peroxiredoxin activity,
+INTERPRO	530000707$IPR000866:Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant,530010442$IPR012336:Thioredoxin-like fold,530011669$IPR013766:Thioredoxin domain,530020962$IPR024706:Peroxiredoxin, AhpC-type,
+PIR_SUPERFAMILY	700000107$PIRSF000239:peroxiredoxin, AhpC type,
+UP_KEYWORDS	870000010$3D-structure,870000079$Antioxidant,870000251$Complete proteome,870000317$Direct protein sequencing,870000319$Disulfide bond,870000802$Oxidoreductase,870000818$Peroxidase,870000927$Redox-active center,870000928$Reference proteome,870001024$Stress response,
+
+Rv2181	alpha-(1-2)-phosphatidylinositol mannoside mannosyltransferase(Rv2181)
+GOTERM_BP_DIRECT	300002586$GO:0008654~phospholipid biosynthetic process,300002697$GO:0009247~glycolipid biosynthetic process,300002753$GO:0009405~pathogenesis,300009530$GO:0046488~phosphatidylinositol metabolic process,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460000007$GO:0000026~alpha-1,2-mannosyltransferase activity,460002902$GO:0016758~transferase activity, transferring hexosyl groups,
+INTERPRO	530015601$IPR018584:Protein of unknown function DUF2029,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000438$Glycosyltransferase,870000653$Lipid biosynthesis,870000656$Lipid metabolism,870000683$Membrane,870000836$Phospholipid biosynthesis,870000838$Phospholipid metabolism,870000928$Reference proteome,870001085$Transferase,870001092$Transmembrane,870001094$Transmembrane helix,870001183$Virulence,
+
+Rv3168	aminoglycoside phosphotransferase(Rv3168)
+COG_ONTOLOGY	120000073$General function prediction only,
+GOTERM_BP_DIRECT	300009625$GO:0046677~response to antibiotic,
+GOTERM_MF_DIRECT	460001536$GO:0005524~ATP binding,460002737$GO:0016301~kinase activity,460002885$GO:0016740~transferase activity,460005313$GO:0046872~metal ion binding,
+INTERPRO	530002128$IPR002575:Aminoglycoside phosphotransferase,530009446$IPR011009:Protein kinase-like domain,
+UP_KEYWORDS	870000010$3D-structure,870000077$Antibiotic resistance,870000104$ATP-binding,870000251$Complete proteome,870000620$Kinase,870000670$Magnesium,870000691$Metal-binding,870000786$Nucleotide-binding,870000928$Reference proteome,870001085$Transferase,
+
+Rv1609	anthranilate synthase component I(trpE)
+GOTERM_BP_DIRECT	300000058$GO:0000162~tryptophan biosynthetic process,300002584$GO:0008652~cellular amino acid biosynthetic process,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000454$GO:0005950~anthranilate synthase complex,
+GOTERM_MF_DIRECT	460000058$GO:0000287~magnesium ion binding,460000553$GO:0004049~anthranilate synthase activity,
+INTERPRO	530004417$IPR005256:Anthranilate synthase component I, PabB-like,530004913$IPR005801:ADC synthase,530005806$IPR006805:Anthranilate synthase component I, N-terminal,530013307$IPR015890:Chorismate binding, C-terminal,530016851$IPR019999:Anthranilate synthase component I,
+KEGG_PATHWAY	550041941$mtu00400:Phenylalanine, tyrosine and tryptophan biosynthesis,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042006$mtu01230:Biosynthesis of amino acids,
+UP_KEYWORDS	870000059$Amino-acid biosynthesis,870000092$Aromatic amino acid biosynthesis,870000251$Complete proteome,870000667$Lyase,870000670$Magnesium,870000691$Metal-binding,870000928$Reference proteome,870001112$Tryptophan biosynthesis,
+UP_SEQ_FEATURE	880004629$chain:Anthranilate synthase component 1,
+
+Rv1494	antitoxin MazE4(mazE4)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063586$chain:Uncharacterized protein Rv1494/MT1541,880087857$sequence conflict,
+
+Rv2865	antitoxin RelF(relF)
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,300009271$GO:0045927~positive regulation of growth,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460007210$GO:0097351~toxin-antitoxin pair type II binding,
+INTERPRO	530005484$IPR006442:Type II toxin-antitoxin system, antitoxin Phd/YefM,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870000937$Repressor,870001077$Transcription,870001079$Transcription regulation,
+
+Rv0064A	antitoxin VapB1(vapB1)
+GOTERM_BP_DIRECT	300001494$GO:0006355~regulation of transcription, DNA-templated,
+INTERPRO	530009429$IPR010985:Ribbon-helix-helix,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2009	antitoxin VapB15(vapB15)
+GOTERM_BP_DIRECT	300000360$GO:0001666~response to hypoxia,300009271$GO:0045927~positive regulation of growth,
+GOTERM_MF_DIRECT	460005313$GO:0046872~metal ion binding,
+INTERPRO	530016173$IPR019239:Protein of unknown function DUF2191,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000670$Magnesium,870000674$Manganese,870000691$Metal-binding,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063639$chain:Uncharacterized protein Rv2009/MT2064.1,
+
+Rv2526	antitoxin VapB17(vapB17)
+INTERPRO	530016173$IPR019239:Protein of unknown function DUF2191,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2862A	antitoxin VapB23(vapB23)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0748	antitoxin VapB31(vapB31)
+GOTERM_BP_DIRECT	300001494$GO:0006355~regulation of transcription, DNA-templated,300009271$GO:0045927~positive regulation of growth,
+INTERPRO	530001774$IPR002145:Ribbon-helix-helix protein, copG,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1241	antitoxin VapB33(vapB33)
+GOTERM_BP_DIRECT	300009271$GO:0045927~positive regulation of growth,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2595	antitoxin VapB40(vapB40)
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530006105$IPR007159:AbrB-like domain,
+SMART	790000850$SM00966:SM00966,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063723$chain:Uncharacterized protein Rv2595/MT2671.1,
+
+Rv2601A	antitoxin VapB41(vapB41)
+COG_ONTOLOGY	120000073$General function prediction only,
+GOTERM_BP_DIRECT	300001494$GO:0006355~regulation of transcription, DNA-templated,300009271$GO:0045927~positive regulation of growth,
+INTERPRO	530009429$IPR010985:Ribbon-helix-helix,530011267$IPR013321:Arc-type ribbon-helix-helix,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3794	arabinosyltransferase A(embA)
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,300009625$GO:0046677~response to antibiotic,300012874$GO:0071555~cell wall organization,300012966$GO:0071766~Actinobacterium-type cell wall biogenesis,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,380000408$GO:0005887~integral component of plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460006485$GO:0052636~arabinosyltransferase activity,
+INTERPRO	530006579$IPR007680:Mycobacterial cell wall arabinan synthesis protein,530023285$IPR027451:Arabinofuranosyltransferase N-terminal domain,
+UP_KEYWORDS	870000077$Antibiotic resistance,870000190$Cell membrane,870000195$Cell wall biogenesis/degradation,870000251$Complete proteome,870000438$Glycosyltransferase,870000683$Membrane,870000928$Reference proteome,870001085$Transferase,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880033796$chain:Probable arabinosyltransferase A,880087857$sequence conflict,880087858$sequence variant,880089084$transmembrane region,
+
+Rv3841	bacterioferritin BfrB(bfrB)
+GOTERM_BP_DIRECT	300000360$GO:0001666~response to hypoxia,300001858$GO:0006826~iron ion transport,300001898$GO:0006879~cellular iron ion homeostasis,300001899$GO:0006880~intracellular sequestering of iron ion,300006312$GO:0033214~iron assimilation by chelation and transport,300010717$GO:0051409~response to nitrosative stress,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000224$GO:0005623~cell,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000700$GO:0004322~ferroxidase activity,460001525$GO:0005506~iron ion binding,460001643$GO:0008199~ferric iron binding,
+INTERPRO	530001257$IPR001519:Ferritin,530007119$IPR008331:Ferritin/DPS protein domain,530007724$IPR009040:Ferritin- like diiron domain,530007751$IPR009078:Ferritin-like superfamily,530010451$IPR012347:Ferritin-related,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000317$Direct protein sequencing,870000604$Iron,870000605$Iron storage,870000691$Metal-binding,870000802$Oxidoreductase,870000928$Reference proteome,
+
+Rv1442	biotin sulfoxide reductase BisC(bisC)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,
+GOTERM_MF_DIRECT	460002784$GO:0016491~oxidoreductase activity,460003543$GO:0030151~molybdenum ion binding,
+INTERPRO	530005675$IPR006656:Molybdopterin oxidoreductase,530005676$IPR006657:Molydopterin dinucleotide-binding domain,530005677$IPR006658:Molybdopterin guanine dinucleotide-containing S/N-oxide reductase,530007699$IPR009010:Aspartate decarboxylase-like domain,
+KEGG_PATHWAY	550041984$mtu00780:Biotin metabolism,550041998$mtu01100:Metabolic pathways,
+UP_KEYWORDS	870000251$Complete proteome,870000691$Metal-binding,870000928$Reference proteome,
+
+Rv2641	cadmium inducible protein CadI(cadI)
+GOTERM_BP_DIRECT	300009630$GO:0046686~response to cadmium ion,
+INTERPRO	530003604$IPR004360:Glyoxalase/fosfomycin resistance/dioxygenase domain,
+UP_KEYWORDS	870000251$Complete proteome,870000317$Direct protein sequencing,870000928$Reference proteome,
+UP_SEQ_FEATURE	880007294$chain:Cadmium-induced protein cadI,
+
+Rv0654	carotenoid cleavage oxygenase(Rv0654)
+COG_ONTOLOGY	120000104$Secondary metabolites biosynthesis, transport, and catabolism,
+GOTERM_BP_DIRECT	300004168$GO:0016118~carotenoid catabolic process,
+GOTERM_MF_DIRECT	460002278$GO:0010436~carotenoid dioxygenase activity,460002861$GO:0016702~oxidoreductase activity, acting on single donors with incorporation of molecular oxygen, incorporation of two atoms of oxygen,460005313$GO:0046872~metal ion binding,
+INTERPRO	530003545$IPR004294:Carotenoid oxygenase,
+UP_KEYWORDS	870000251$Complete proteome,870000315$Dioxygenase,870000604$Iron,870000691$Metal-binding,870000802$Oxidoreductase,870000928$Reference proteome,
+
+Rv1997	cation transporter ATPase F(ctpF)
+COG_ONTOLOGY	120000075$Inorganic ion transport and metabolism,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,380000408$GO:0005887~integral component of plasma membrane,380000668$GO:0016021~integral component of membrane,380001588$GO:0043231~intracellular membrane-bounded organelle,
+GOTERM_MF_DIRECT	460000031$GO:0000166~nucleotide binding,460001488$GO:0005388~calcium-transporting ATPase activity,460001536$GO:0005524~ATP binding,460005313$GO:0046872~metal ion binding,
+INTERPRO	530001456$IPR001757:Cation-transporting P-type ATPase,530003294$IPR004014:Cation-transporting P-type ATPase, N-terminal,530005150$IPR006068:Cation-transporting P-type ATPase, C-terminal,530007057$IPR008250:P-type ATPase, A  domain,530015399$IPR018303:P-type ATPase, phosphorylation site,530019663$IPR023214:HAD-like domain,530019736$IPR023298:P-type ATPase,  transmembrane domain,530019737$IPR023299:P-type ATPase, cytoplasmic domain N,
+SMART	790000716$SM00831:SM00831,
+UP_KEYWORDS	870000104$ATP-binding,870000190$Cell membrane,870000251$Complete proteome,870000516$Hydrolase,870000670$Magnesium,870000683$Membrane,870000691$Metal-binding,870000786$Nucleotide-binding,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880000003$active site:4-aspartylphosphate intermediate,880034059$chain:Probable cation-transporting ATPase F,880079503$metal ion-binding site:Magnesium,880089084$transmembrane region,
+
+Rv3810	cell surface protein(pirG)
+GOTERM_BP_DIRECT	300002753$GO:0009405~pathogenesis,300008619$GO:0044119~growth of symbiont in host cell,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530007011$IPR008164:Repeat of unknown function XGLTT,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870000935$Repeat,870000992$Signal,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880015176$chain:Exported repetitive protein,880081520$region of interest:6 X 5 AA approximate tandem repeats of P- [ATG]-[LG]-X-X,880081523$region of interest:6 X 5 AA tandem repeats of P-[GA]-L-T-S,880085748$repeat:1-1,880085764$repeat:1-2,880085776$repeat:1-3,880085786$repeat:1-4,880085789$repeat:1-5,880085792$repeat:1-6,880085936$repeat:2-1,880085953$repeat:2-2,880085968$repeat:2-3,880085977$repeat:2-4,880085979$repeat:2-5,880085982$repeat:2-6,880087857$sequence conflict,880087858$sequence variant,880088358$signal peptide,880089042$topological domain:Cytoplasmic,880089048$topological domain:Extracellular,880089084$transmembrane region,
+
+Rv0062	cellulase CelA(celA1)
+GOTERM_BP_DIRECT	300005228$GO:0030245~cellulose catabolic process,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460001977$GO:0008810~cellulase activity,
+INTERPRO	530013610$IPR016288:1, 4-beta cellobiohydrolase,
+KEGG_PATHWAY	550041951$mtu00500:Starch and sucrose metabolism,550041998$mtu01100:Metabolic pathways,
+PIR_SUPERFAMILY	700000369$PIRSF001100:1,4-beta cellobiohydrolase,
+UP_KEYWORDS	870000010$3D-structure,870000173$Carbohydrate metabolism,870000197$Cellulose degradation,870000251$Complete proteome,870000436$Glycosidase,870000516$Hydrolase,870000683$Membrane,870000865$Polysaccharide degradation,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1665	chalcone synthase(pks11)
+COG_ONTOLOGY	120000104$Secondary metabolites biosynthesis, transport, and catabolism,
+GOTERM_BP_DIRECT	300001711$GO:0006633~fatty acid biosynthetic process,300002565$GO:0008610~lipid biosynthetic process,300002594$GO:0009058~biosynthetic process,300002874$GO:0009715~chalcone biosynthetic process,300012969$GO:0071770~DIM/DIP cell wall layer assembly,
+GOTERM_MF_DIRECT	460002891$GO:0016747~transferase activity, transferring acyl groups other than amino-acyl groups,
+INTERPRO	530000899$IPR001099:Chalcone/stilbene synthase, N-terminal,530009554$IPR011141:Polyketide synthase, type III,530010437$IPR012328:Chalcone/stilbene synthase, C-terminal,530013408$IPR016039:Thiolase-like,
+PIR_SUPERFAMILY	700000178$PIRSF000451:type III polyketide synthase,
+UP_KEYWORDS	870000010$3D-structure,870000039$Acyltransferase,870000251$Complete proteome,870000378$Fatty acid metabolism,870000656$Lipid metabolism,870000928$Reference proteome,870001085$Transferase,
+
+Rv0896	citrate synthase 1(gltA2)
+GOTERM_BP_DIRECT	300001327$GO:0006099~tricarboxylic acid cycle,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000606$GO:0004108~citrate (Si)-synthase activity,
+INTERPRO	530001671$IPR002020:Citrate synthase-like,530009402$IPR010953:Citrate synthase, type II,530013484$IPR016142:Citrate synthase-like, large alpha subdomain,530013485$IPR016143:Citrate synthase-like, small alpha subdomain,530016679$IPR019810:Citrate synthase active site,530020489$IPR024176:Citrate synthase, bacterial-type,
+KEGG_PATHWAY	550041907$mtu00020:Citrate cycle (TCA cycle),550041970$mtu00630:Glyoxylate and dicarboxylate metabolism,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042002$mtu01200:Carbon metabolism,550042003$mtu01210:2-Oxocarboxylic acid metabolism,550042006$mtu01230:Biosynthesis of amino acids,
+PIR_SUPERFAMILY	700000429$PIRSF001369:citrate synthase,
+UP_KEYWORDS	870000010$3D-structure,870000050$Allosteric enzyme,870000251$Complete proteome,870000610$Isopeptide bond,870000928$Reference proteome,870001085$Transferase,870001107$Tricarboxylic acid cycle,870001125$Ubl conjugation,
+UP_SEQ_FEATURE	880009425$chain:Citrate synthase 1,
+
+Rv1469	cobalt/nickel-exporting P-type ATPase(ctpD)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000408$GO:0005887~integral component of plasma membrane,380000668$GO:0016021~integral component of membrane,380001588$GO:0043231~intracellular membrane-bounded organelle,
+GOTERM_MF_DIRECT	460000031$GO:0000166~nucleotide binding,460001487$GO:0005385~zinc ion transmembrane transporter activity,460001536$GO:0005524~ATP binding,460002343$GO:0015086~cadmium ion transmembrane transporter activity,460003441$GO:0019829~cation-transporting ATPase activity,460005313$GO:0046872~metal ion binding,
+INTERPRO	530001456$IPR001757:Cation-transporting P-type ATPase,530007057$IPR008250:P-type ATPase, A  domain,530015399$IPR018303:P-type ATPase, phosphorylation site,530019663$IPR023214:HAD-like domain,530019737$IPR023299:P-type ATPase, cytoplasmic domain N,530023121$IPR027256:Cation-transporting P-type ATPase, subfamily IB,
+UP_KEYWORDS	870000104$ATP-binding,870000190$Cell membrane,870000239$Cobalt,870000251$Complete proteome,870000516$Hydrolase,870000670$Magnesium,870000683$Membrane,870000691$Metal-binding,870000769$Nickel,870000786$Nucleotide-binding,870000841$Phosphoprotein,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880000003$active site:4-aspartylphosphate intermediate,880034068$chain:Probable cation-transporting P-type ATPase D,880079503$metal ion-binding site:Magnesium,880089084$transmembrane region,
+
+Rv1901	competence damage-inducible protein CinA(cinA)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+INTERPRO	530001202$IPR001453:Molybdopterin binding domain,530006989$IPR008135:Competence-induced protein CinA,530006990$IPR008136:CinA, C-terminal,
+KEGG_PATHWAY	550041982$mtu00760:Nicotinate and nicotinamide metabolism,
+PIR_SUPERFAMILY	700001154$PIRSF006728:competence protein CinA,
+SMART	790000737$SM00852:SM00852,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880009397$chain:CinA-like protein,
+
+Rv0967	copper-sensing transcriptional repressor CsoR(csoR)
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,300003252$GO:0010272~response to silver ion,300009632$GO:0046688~response to copper ion,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460001526$GO:0005507~copper ion binding,460005313$GO:0046872~metal ion binding,460007184$GO:0097077~copper ion sensor activity,
+INTERPRO	530003052$IPR003735:Metal-sensitive transcriptional repressor,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000264$Copper,870000288$Cytoplasm,870000331$DNA-binding,870000691$Metal-binding,870000928$Reference proteome,870000937$Repressor,870001077$Transcription,870001079$Transcription regulation,
+UP_SEQ_FEATURE	880010356$chain:Copper-sensing transcriptional repressor csoR,880079268$helix,880079365$metal ion-binding site:Copper,880079391$metal ion-binding site:Copper; shared with dimeric partner,880079643$mutagenesis site,880089085$turn,
+
+Rv3109	cyclic pyranopterin monophosphate synthase(moaA1)
+COG_ONTOLOGY	120000046$Coenzyme metabolism,
+GOTERM_BP_DIRECT	300001822$GO:0006777~Mo-molybdopterin cofactor biosynthetic process,300005893$GO:0032324~molybdopterin cofactor biosynthetic process,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000739$GO:0019008~molybdopterin synthase complex,
+GOTERM_MF_DIRECT	460001537$GO:0005525~GTP binding,460005313$GO:0046872~metal ion binding,460006372$GO:0051539~4 iron, 4 sulfur cluster binding,460006724$GO:0061597~cyclic pyranopterin monophosphate synthase activity,
+INTERPRO	530000303$IPR000385:MoaA/nifB/pqqE, iron-sulphur binding, conserved site,530005662$IPR006638:Elongator protein 3/MiaB/NifB,530006140$IPR007197:Radical SAM,530009023$IPR010505:Molybdenum cofactor synthesis C-terminal,530011412$IPR013483:Molybdenum cofactor biosynthesis protein A,530011680$IPR013785:Aldolase-type TIM barrel,
+KEGG_PATHWAY	550041986$mtu00790:Folate biosynthesis,550041998$mtu01100:Metabolic pathways,550042024$mtu04122:Sulfur relay system,
+SMART	790000624$SM00729:Elp3,
+UP_KEYWORDS	870000013$4Fe-4S,870000251$Complete proteome,870000451$GTP-binding,870000604$Iron,870000607$Iron-sulfur,870000667$Lyase,870000691$Metal-binding,870000734$Molybdenum cofactor biosynthesis,870000786$Nucleotide-binding,870000928$Reference proteome,870000963$S-adenosyl-L-methionine,
+UP_SEQ_FEATURE	880000361$binding site:GTP,880000487$binding site:S-adenosyl-L-methionine,880000497$binding site:S-adenosyl-L-methionine; via amide nitrogen and carbonyl oxygen,880000498$binding site:S-adenosyl-L-methionine; via carbonyl oxygen,880026700$chain:Molybdenum cofactor biosynthesis protein A 1,880079480$metal ion-binding site:Iron-sulfur 1 (4Fe-4S-S-AdoMet),880079489$metal ion-binding site:Iron-sulfur 2 (4Fe-4S-substrate),880082637$region of interest:GTP binding,
+
+Rv3121	cytochrome P450 Cyp141(cyp141)
+COG_ONTOLOGY	120000104$Secondary metabolites biosynthesis, transport, and catabolism,
+GOTERM_BP_DIRECT	300001777$GO:0006707~cholesterol catabolic process,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460000845$GO:0004497~monooxygenase activity,460001525$GO:0005506~iron ion binding,460001715$GO:0008395~steroid hydroxylase activity,460002862$GO:0016705~oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen,460003490$GO:0020037~heme binding,460004633$GO:0036199~cholest-4-en-3-one 26-monooxygenase activity,
+INTERPRO	530000922$IPR001128:Cytochrome P450,530001981$IPR002397:Cytochrome P450, B-class,530015140$IPR017972:Cytochrome P450, conserved site,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000459$Heme,870000604$Iron,870000683$Membrane,870000691$Metal-binding,870000736$Monooxygenase,870000802$Oxidoreductase,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880041928$chain:Putative cytochrome P450 141,880079428$metal ion-binding site:Iron (heme axial ligand),880087857$sequence conflict,880089084$transmembrane region,
+
+Rv0512	delta-aminolevulinic acid dehydratase(hemB)
+GOTERM_BP_DIRECT	300001827$GO:0006782~protoporphyrinogen IX biosynthetic process,300001828$GO:0006783~heme biosynthetic process,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,
+GOTERM_MF_DIRECT	460000977$GO:0004655~porphobilinogen synthase activity,460001672$GO:0008270~zinc ion binding,
+INTERPRO	530001435$IPR001731:Porphobilinogen synthase,530011680$IPR013785:Aldolase-type TIM barrel,
+KEGG_PATHWAY	550041987$mtu00860:Porphyrin and chlorophyll metabolism,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,
+PIR_SUPERFAMILY	700000439$PIRSF001415:porphobilinogen synthase,
+SMART	790000887$SM01004:SM01004,
+UP_KEYWORDS	870000251$Complete proteome,870000460$Heme biosynthesis,870000667$Lyase,870000670$Magnesium,870000691$Metal-binding,870000870$Porphyrin biosynthesis,870000928$Reference proteome,
+UP_SEQ_FEATURE	880012144$chain:Delta-aminolevulinic acid dehydratase,
+
+Rv0670	endonuclease IV(end)
+GOTERM_BP_DIRECT	300001445$GO:0006281~DNA repair,300001448$GO:0006284~base-excision repair,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000440$GO:0003906~DNA-(apurinic or apyrimidinic site) lyase activity,460001576$GO:0008081~phosphoric diester hydrolase activity,460001672$GO:0008270~zinc ion binding,460001998$GO:0008833~deoxyribonuclease IV (phage-T4-induced) activity,
+INTERPRO	530001424$IPR001719:Endodeoxyribonuclease IV,530011037$IPR013022:Xylose isomerase-like, TIM barrel domain,530015346$IPR018246:AP endonuclease, family 2, zinc binding site,
+KEGG_PATHWAY	550042019$mtu03410:Base excision repair,
+SMART	790000450$SM00518:AP2Ec,
+UP_KEYWORDS	870000251$Complete proteome,870000321$DNA damage,870000327$DNA repair,870000348$Endonuclease,870000516$Hydrolase,870000691$Metal-binding,870000781$Nuclease,870000928$Reference proteome,870001206$Zinc,
+UP_SEQ_FEATURE	880034575$chain:Probable endonuclease 4,880079605$metal ion-binding site:Zinc 1,880079612$metal ion-binding site:Zinc 2,880079620$metal ion-binding site:Zinc 3,
+
+Rv2486	enoyl-CoA hydratase EchA14(echA14)
+COG_ONTOLOGY	120000084$Lipid metabolism,
+GOTERM_BP_DIRECT	300001712$GO:0006635~fatty acid beta-oxidation,300002484$GO:0008152~metabolic process,
+GOTERM_MF_DIRECT	460000679$GO:0004300~enoyl-CoA hydratase activity,
+INTERPRO	530001454$IPR001753:Crotonase superfamily,530015449$IPR018376:Enoyl-CoA hydratase/isomerase, conserved site,
+KEGG_PATHWAY	550041914$mtu00071:Fatty acid degradation,550041926$mtu00280:Valine, leucine and isoleucine degradation,550041927$mtu00281:Geraniol degradation,550041930$mtu00310:Lysine degradation,550041936$mtu00360:Phenylalanine metabolism,550041938$mtu00362:Benzoate degradation,550041940$mtu00380:Tryptophan metabolism,550041943$mtu00410:beta-Alanine metabolism,550041969$mtu00627:Aminobenzoate degradation,550041972$mtu00640:Propanoate metabolism,550041975$mtu00650:Butanoate metabolism,550041989$mtu00903:Limonene and pinene degradation,550041993$mtu00930:Caprolactam degradation,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042004$mtu01212:Fatty acid metabolism,
+UP_KEYWORDS	870000251$Complete proteome,870000378$Fatty acid metabolism,870000656$Lipid metabolism,870000667$Lyase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880034584$chain:Probable enoyl-CoA hydratase echA14,
+
+Rv3550	enoyl-CoA hydratase EchA20(echA20)
+COG_ONTOLOGY	120000084$Lipid metabolism,
+GOTERM_BP_DIRECT	300001712$GO:0006635~fatty acid beta-oxidation,
+GOTERM_MF_DIRECT	460000661$GO:0004165~dodecenoyl-CoA delta-isomerase activity,460000679$GO:0004300~enoyl-CoA hydratase activity,
+INTERPRO	530001454$IPR001753:Crotonase superfamily,
+KEGG_PATHWAY	550041914$mtu00071:Fatty acid degradation,550041926$mtu00280:Valine, leucine and isoleucine degradation,550041927$mtu00281:Geraniol degradation,550041930$mtu00310:Lysine degradation,550041936$mtu00360:Phenylalanine metabolism,550041938$mtu00362:Benzoate degradation,550041940$mtu00380:Tryptophan metabolism,550041943$mtu00410:beta-Alanine metabolism,550041969$mtu00627:Aminobenzoate degradation,550041972$mtu00640:Propanoate metabolism,550041975$mtu00650:Butanoate metabolism,550041989$mtu00903:Limonene and pinene degradation,550041993$mtu00930:Caprolactam degradation,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042004$mtu01212:Fatty acid metabolism,
+UP_KEYWORDS	870000251$Complete proteome,870000667$Lyase,870000928$Reference proteome,
+
+Rv2930	fatty-acid--CoA ligase FadD26(fadD26)
+GOTERM_BP_DIRECT	300001711$GO:0006633~fatty acid biosynthetic process,300002484$GO:0008152~metabolic process,300008619$GO:0044119~growth of symbiont in host cell,300011047$GO:0052572~response to host immune response,300012966$GO:0071766~Actinobacterium-type cell wall biogenesis,300012969$GO:0071770~DIM/DIP cell wall layer assembly,300013986$GO:0097040~phthiocerol biosynthetic process,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000373$GO:0003824~catalytic activity,460001536$GO:0005524~ATP binding,460002982$GO:0016878~acid-thiol ligase activity,460006858$GO:0070566~adenylyltransferase activity,
+INTERPRO	530000714$IPR000873:AMP-dependent synthetase/ligase,
+UP_KEYWORDS	870000104$ATP-binding,870000251$Complete proteome,870000378$Fatty acid metabolism,870000646$Ligase,870000656$Lipid metabolism,870000786$Nucleotide-binding,870000928$Reference proteome,
+UP_SEQ_FEATURE	880042608$chain:Putative fatty-acid--CoA ligase fadD26,
+
+Rv3561	fatty-acid--CoA ligase FadD3(fadD3)
+GOTERM_BP_DIRECT	300002484$GO:0008152~metabolic process,300002489$GO:0008203~cholesterol metabolic process,
+GOTERM_MF_DIRECT	460001536$GO:0005524~ATP binding,460002978$GO:0016874~ligase activity,
+INTERPRO	530000714$IPR000873:AMP-dependent synthetase/ligase,530017484$IPR020845:AMP-binding, conserved site,530021302$IPR025110:Domain of unknown function DUF4009,
+UP_KEYWORDS	870000104$ATP-binding,870000217$Cholesterol metabolism,870000251$Complete proteome,870000646$Ligase,870000656$Lipid metabolism,870000786$Nucleotide-binding,870000928$Reference proteome,870001016$Steroid metabolism,870001020$Sterol metabolism,
+
+Rv1817	flavoprotein(Rv1817)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,
+GOTERM_MF_DIRECT	460002784$GO:0016491~oxidoreductase activity,
+INTERPRO	530003241$IPR003953:FAD binding domain,530020127$IPR023753:Pyridine nucleotide-disulphide oxidoreductase, FAD/NAD(P)-binding domain,530023306$IPR027477:Succinate dehydrogenase/fumarate reductase flavoprotein, catalytic domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1552	fumarate reductase flavoprotein subunit(frdA)
+GOTERM_BP_DIRECT	300002597$GO:0009061~anaerobic respiration,300005117$GO:0022900~electron transport chain,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460002824$GO:0016627~oxidoreductase activity, acting on the CH-CH group of donors,460006265$GO:0050660~flavin adenine dinucleotide binding,
+INTERPRO	530003240$IPR003952:Fumarate reductase/succinate dehydrogenase, FAD-binding site,530003241$IPR003953:FAD binding domain,530004984$IPR005884:Fumarate reductase, flavoprotein subunit,530011874$IPR014006:Succinate dehydrogenase/fumarate reductase, flavoprotein subunit,530013339$IPR015939:Fumarate reductase/succinate dehydrogenase flavoprotein-like, C-terminal,530020127$IPR023753:Pyridine nucleotide-disulphide oxidoreductase, FAD/NAD(P)-binding domain,530023306$IPR027477:Succinate dehydrogenase/fumarate reductase flavoprotein, catalytic domain,
+KEGG_PATHWAY	550041907$mtu00020:Citrate cycle (TCA cycle),550041918$mtu00190:Oxidative phosphorylation,550041963$mtu00620:Pyruvate metabolism,550041975$mtu00650:Butanoate metabolism,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042002$mtu01200:Carbon metabolism,550042011$mtu02020:Two-component system,
+PIR_SUPERFAMILY	700000079$PIRSF000171:succinate dehydrogenase, flavoprotein subunit (SDHA/APRA/LASPO),
+UP_KEYWORDS	870000251$Complete proteome,870000343$Electron transport,870000374$FAD,870000388$Flavoprotein,870000802$Oxidoreductase,870000928$Reference proteome,870001103$Transport,
+UP_SEQ_FEATURE	880016707$chain:Fumarate reductase flavoprotein subunit,880079642$modified residue,880079669$nucleotide phosphate-binding region:FAD,
+
+Rv2173	geranylgeranyl pyrophosphate synthetase IdsA(idsA2)
+GOTERM_BP_DIRECT	300002515$GO:0008299~isoprenoid biosynthetic process,
+GOTERM_MF_DIRECT	460002885$GO:0016740~transferase activity,
+INTERPRO	530000070$IPR000092:Polyprenyl synthetase,530007654$IPR008949:Terpenoid synthase,
+KEGG_PATHWAY	550041988$mtu00900:Terpenoid backbone biosynthesis,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042001$mtu01130:Biosynthesis of antibiotics,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870001085$Transferase,
+
+Rv1121	glucose-6-phosphate 1-dehydrogenase(zwf1)
+GOTERM_BP_DIRECT	300001257$GO:0006006~glucose metabolic process,300001326$GO:0006098~pentose-phosphate shunt,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000720$GO:0004345~glucose-6-phosphate dehydrogenase activity,460006266$GO:0050661~NADP binding,
+INTERPRO	530001055$IPR001282:Glucose-6-phosphate dehydrogenase,530013409$IPR016040:NAD(P)-binding domain,530016665$IPR019796:Glucose-6-phosphate dehydrogenase, active site,530019200$IPR022674:Glucose-6-phosphate dehydrogenase, NAD-binding,530019201$IPR022675:Glucose-6-phosphate dehydrogenase, C-terminal,
+KEGG_PATHWAY	550041908$mtu00030:Pentose phosphate pathway,550041950$mtu00480:Glutathione metabolism,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042002$mtu01200:Carbon metabolism,
+PIR_SUPERFAMILY	700000048$PIRSF000110:glucose-6-phosphate dehydrogenase,
+UP_KEYWORDS	870000173$Carbohydrate metabolism,870000251$Complete proteome,870000422$Glucose metabolism,870000754$NADP,870000802$Oxidoreductase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880000109$active site:Proton acceptor,880000430$binding site:NADP,880000510$binding site:Substrate,880034833$chain:Probable glucose-6-phosphate 1- dehydrogenase,880087857$sequence conflict,
+
+Rv0072	glutamine ABC transporter permease(Rv0072)
+COG_ONTOLOGY	120000032$Cell envelope biogenesis, outer membrane,
+GOTERM_BP_DIRECT	300001846$GO:0006810~transport,300002753$GO:0009405~pathogenesis,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000407$GO:0005886~plasma membrane,380000408$GO:0005887~integral component of plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530003145$IPR003838:Permease FtsX-like,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+
+Rv2220	glutamine synthetase(glnA1)
+GOTERM_BP_DIRECT	300001630$GO:0006542~glutamine biosynthetic process,300002749$GO:0009399~nitrogen fixation,300002753$GO:0009405~pathogenesis,300004796$GO:0020012~evasion or tolerance of host immune response,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000294$GO:0005737~cytoplasm,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000731$GO:0004356~glutamate-ammonia ligase activity,460001536$GO:0005524~ATP binding,
+INTERPRO	530001353$IPR001637:Glutamine synthetase class-I, adenylation site,530004018$IPR004809:Glutamine synthetase type I,530006998$IPR008146:Glutamine synthetase, catalytic domain,530006999$IPR008147:Glutamine synthetase, beta-Grasp,530012437$IPR014746:Glutamine synthetase/guanido kinase, catalytic domain,530023157$IPR027302:Glutamine synthetase, N-terminal conserved site,530023158$IPR027303:Glutamine synthetase, glycine-rich site,
+KEGG_PATHWAY	550041919$mtu00220:Arginine biosynthesis,550041922$mtu00250:Alanine, aspartate and glutamate metabolism,550041970$mtu00630:Glyoxylate and dicarboxylate metabolism,550041991$mtu00910:Nitrogen metabolism,550041998$mtu01100:Metabolic pathways,550042000$mtu01120:Microbial metabolism in diverse environments,550042006$mtu01230:Biosynthesis of amino acids,550042011$mtu02020:Two-component system,
+SMART	790001092$SM01230:SM01230,
+UP_KEYWORDS	870000010$3D-structure,870000104$ATP-binding,870000251$Complete proteome,870000288$Cytoplasm,870000646$Ligase,870000786$Nucleotide-binding,870000841$Phosphoprotein,870000928$Reference proteome,
+UP_SEQ_FEATURE	880017949$chain:Glutamine synthetase 1,880079268$helix,880079642$modified residue,880089040$strand,880089085$turn,
+
+Rv3198A	glutaredoxin protein(Rv3198A)
+GOTERM_BP_DIRECT	300008997$GO:0045454~cell redox homeostasis,
+GOTERM_CC_DIRECT	380000224$GO:0005623~cell,
+GOTERM_MF_DIRECT	460002172$GO:0009055~electron carrier activity,460002315$GO:0015035~protein disulfide oxidoreductase activity,
+INTERPRO	530001742$IPR002109:Glutaredoxin,530010177$IPR011915:Glutaredoxin-like protein, actinobacteria,530010442$IPR012336:Thioredoxin-like fold,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000802$Oxidoreductase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880042753$chain:Putative glutaredoxin Rv3198.1/MT3292,880077526$domain:Glutaredoxin,
+
+Rv1436	glyceraldehyde 3-phosphate dehydrogenase(gap)
+GOTERM_BP_DIRECT	300001257$GO:0006006~glucose metabolic process,300001324$GO:0006096~glycolytic process,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000740$GO:0004365~glyceraldehyde-3-phosphate dehydrogenase (NAD+) (phosphorylating) activity,460002820$GO:0016620~oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor,460006266$GO:0050661~NADP binding,460006339$GO:0051287~NAD binding,
+INTERPRO	530005466$IPR006424:Glyceraldehyde-3-phosphate dehydrogenase, type I,530013409$IPR016040:NAD(P)-binding domain,530017470$IPR020828:Glyceraldehyde 3-phosphate dehydrogenase, NAD(P) binding domain,530017471$IPR020829:Glyceraldehyde 3-phosphate dehydrogenase, catalytic domain,530017472$IPR020830:Glyceraldehyde 3-phosphate dehydrogenase, active site,530017473$IPR020831:Glyceraldehyde/Erythrose phosphate dehydrogenase family,
+KEGG_PATHWAY	550041906$mtu00010:Glycolysis / Gluconeogenesis,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042002$mtu01200:Carbon metabolism,550042006$mtu01230:Biosynthesis of amino acids,
+PIR_SUPERFAMILY	700000065$PIRSF000149:glyceraldehyde-3-phosphate dehydrogenase,
+SMART	790000731$SM00846:SM00846,
+UP_KEYWORDS	870000251$Complete proteome,870000288$Cytoplasm,870000434$Glycolysis,870000753$NAD,870000786$Nucleotide-binding,870000802$Oxidoreductase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880000085$active site:Nucleophile,880000353$binding site:Glyceraldehyde 3-phosphate,880000423$binding site:NAD,880000429$binding site:NAD; via carbonyl oxygen,880018150$chain:Glyceraldehyde-3-phosphate dehydrogenase,880079685$nucleotide phosphate-binding region:NAD,880082604$region of interest:Glyceraldehyde 3-phosphate binding,880088359$site:Activates thiol group during catalysis,
+
+Rv0917	glycine betaine transport integral membrane protein BetP(betP)
+GOTERM_BP_DIRECT	300012950$GO:0071705~nitrogen compound transport,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460001387$GO:0005215~transporter activity,460002336$GO:0015077~monovalent inorganic cation transmembrane transporter activity,
+INTERPRO	530000046$IPR000060:BCCT transporter family,530015233$IPR018093:BCCT transporter, conserved site,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+UP_SEQ_FEATURE	880067113$chain:Uncharacterized transporter Rv0917/MT0942,880089084$transmembrane region,
+
+Rv1827	glycogen accumulation regulator GarA(garA)
+GOTERM_BP_DIRECT	300008423$GO:0043457~regulation of cellular respiration,300009199$GO:0045820~negative regulation of glycolytic process,300009668$GO:0046777~protein autophosphorylation,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460004822$GO:0042802~identical protein binding,
+INTERPRO	530000200$IPR000253:Forkhead-associated (FHA) domain,530007679$IPR008984:SMAD/FHA domain,
+SMART	790000203$SM00240:FHA,
+UP_KEYWORDS	870000010$3D-structure,870000030$Acetylation,870000251$Complete proteome,870000317$Direct protein sequencing,870000841$Phosphoprotein,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063616$chain:Uncharacterized protein Rv1827/MT1875,880077250$domain:FHA,880079642$modified residue,880089040$strand,880089085$turn,
+
+Rv0584	glycosidase(Rv0584)
+COG_ONTOLOGY	120000016$Carbohydrate transport and metabolism,
+GOTERM_BP_DIRECT	300001227$GO:0005975~carbohydrate metabolic process,
+GOTERM_MF_DIRECT	460000373$GO:0003824~catalytic activity,460002929$GO:0016798~hydrolase activity, acting on glycosyl bonds,460003562$GO:0030246~carbohydrate binding,
+INTERPRO	530004987$IPR005887:Alpha-1,2-mannosidase, putative,530007643$IPR008928:Six-hairpin glycosidase-like,530010966$IPR012939:Glycosyl hydrolase family 92,530012413$IPR014718:Glycoside hydrolase-type carbohydrate-binding, subgroup,
+UP_KEYWORDS	870000251$Complete proteome,870000436$Glycosidase,870000516$Hydrolase,870000928$Reference proteome,870000992$Signal,
+
+Rv1389	guanylate kinase(gmk)
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,
+GOTERM_MF_DIRECT	460000058$GO:0000287~magnesium ion binding,460000524$GO:0004017~adenylate kinase activity,460000758$GO:0004385~guanylate kinase activity,460001536$GO:0005524~ATP binding,460003334$GO:0019002~GMP binding,460003335$GO:0019003~GDP binding,
+INTERPRO	530006996$IPR008144:Guanylate kinase,530006997$IPR008145:Guanylate kinase/L-type calcium channel,530014868$IPR017665:Guanylate kinase, sub-group,530017370$IPR020590:Guanylate kinase, conserved site,530023254$IPR027417:P-loop containing nucleoside triphosphate hydrolase,
+KEGG_PATHWAY	550041920$mtu00230:Purine metabolism,550041998$mtu01100:Metabolic pathways,
+SMART	790000062$SM00072:GuKc,
+UP_KEYWORDS	870000010$3D-structure,870000030$Acetylation,870000104$ATP-binding,870000251$Complete proteome,870000288$Cytoplasm,870000620$Kinase,870000786$Nucleotide-binding,870000928$Reference proteome,870001085$Transferase,
+UP_SEQ_FEATURE	880018978$chain:Guanylate kinase,880077559$domain:Guanylate kinase-like,880079268$helix,880079647$nucleotide phosphate-binding region:ATP,880089040$strand,880089085$turn,
+
+Rv3772	histidinol-phosphate aminotransferase(hisC2)
+GOTERM_BP_DIRECT	300000049$GO:0000105~histidine biosynthetic process,
+GOTERM_MF_DIRECT	460000767$GO:0004400~histidinol-phosphate transaminase activity,460003550$GO:0030170~pyridoxal phosphate binding,
+INTERPRO	530001587$IPR001917:Aminotransferase, class-II, pyridoxal-phosphate binding site,530004040$IPR004839:Aminotransferase, class I/classII,530004961$IPR005861:Histidinol-phosphate aminotransferase family,530013059$IPR015421:Pyridoxal phosphate-dependent transferase, major region, subdomain 1,530013060$IPR015422:Pyridoxal phosphate-dependent transferase, major region, subdomain 2,530013062$IPR015424:Pyridoxal phosphate-dependent transferase,530021100$IPR024892:Putative phenylalanine aminotransferase,
+KEGG_PATHWAY	550041934$mtu00340:Histidine metabolism,550041935$mtu00350:Tyrosine metabolism,550041936$mtu00360:Phenylalanine metabolism,550041941$mtu00400:Phenylalanine, tyrosine and tryptophan biosynthesis,550041942$mtu00401:Novobiocin biosynthesis,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042001$mtu01130:Biosynthesis of antibiotics,550042006$mtu01230:Biosynthesis of amino acids,
+UP_KEYWORDS	870000010$3D-structure,870000063$Aminotransferase,870000251$Complete proteome,870000912$Pyridoxal phosphate,870000928$Reference proteome,870001085$Transferase,
+UP_SEQ_FEATURE	880043968$chain:Putative phenylalanine aminotransferase,880079642$modified residue,
+
+Rv0216	hydratase(Rv0216)
+INTERPRO	530014067$IPR016790:Thiol ester hydratase, Rv0216, predicted,
+PIR_SUPERFAMILY	700001937$PIRSF021494:thiol ester hydratase, Rv0216 type,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2715	hydrolase(Rv2715)
+COG_ONTOLOGY	120000084$Lipid metabolism,
+GOTERM_BP_DIRECT	300002598$GO:0009062~fatty acid catabolic process,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000373$GO:0003824~catalytic activity,460002735$GO:0016298~lipase activity,
+INTERPRO	530000056$IPR000073:Alpha/beta hydrolase fold-1,530000511$IPR000639:Epoxide hydrolase-like,
+UP_KEYWORDS	870000251$Complete proteome,870000516$Hydrolase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063736$chain:Uncharacterized protein Rv2715/MT2788,
+
+Rv0057	hypothetical protein(Rv0057)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+UP_SEQ_FEATURE	880063460$chain:Uncharacterized protein Rv0057/MT0063,880088358$signal peptide,
+
+Rv0059	hypothetical protein(Rv0059)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0079	hypothetical protein(Rv0079)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0104	hypothetical protein(Rv0104)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530000475$IPR000595:Cyclic nucleotide-binding domain,530012406$IPR014710:RmlC-like jelly roll fold,530013409$IPR016040:NAD(P)-binding domain,530015518$IPR018490:Cyclic nucleotide-binding-like,
+SMART	790000087$SM00100:cNMP,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880063469$chain:Uncharacterized protein Rv0104/MT0113,880079663$nucleotide phosphate-binding region:cNMP,880089084$transmembrane region,
+
+Rv0122	hypothetical protein(Rv0122)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0225	hypothetical protein(Rv0225)
+COG_ONTOLOGY	120000032$Cell envelope biogenesis, outer membrane,
+GOTERM_MF_DIRECT	460002885$GO:0016740~transferase activity,
+INTERPRO	530001066$IPR001296:Glycosyl transferase, family 1,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870001085$Transferase,
+
+Rv0332	hypothetical protein(Rv0332)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460005313$GO:0046872~metal ion binding,
+INTERPRO	530009333$IPR010872:MDMPI C-terminal,530014735$IPR017517:Conserved hypothetical protein CHP03083, actinobacterial-type,530020639$IPR024344:Mycothiol-dependent maleylpyruvate isomerase, metal-binding domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0340	hypothetical protein(Rv0340)
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0378	hypothetical protein(Rv0378)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0393	hypothetical protein(Rv0393)
+INTERPRO	530002957$IPR003615:HNH nuclease,530003168$IPR003870:Domain of unknown function DUF222,
+SMART	790000440$SM00507:HNHc,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0397A	hypothetical protein(Rv0397A)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv0603	hypothetical protein(Rv0603)
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv0678	hypothetical protein(Rv0678)
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870000937$Repressor,870001077$Transcription,870001079$Transcription regulation,
+
+Rv0698	hypothetical protein(Rv0698)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0745	hypothetical protein(Rv0745)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0750	hypothetical protein(Rv0750)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0877	hypothetical protein(Rv0877)
+INTERPRO	530017989$IPR021391:Protein of unknown function DUF3027,
+UP_KEYWORDS	870000030$Acetylation,870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063497$chain:Uncharacterized protein Rv0877/MT0900,
+
+Rv0906	hypothetical protein(Rv0906)
+GOTERM_MF_DIRECT	460001672$GO:0008270~zinc ion binding,460006819$GO:0070290~N-acylphosphatidylethanolamine-specific phospholipase D activity,
+INTERPRO	530001053$IPR001279:Beta-lactamase-like,530021093$IPR024884:N-acyl-phosphatidylethanolamine-hydrolysing phospholipase D,
+PIR_SUPERFAMILY	700003052$PIRSF038896:phosphodiesterase, NAPE-PLD type,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+UP_SEQ_FEATURE	880063511$chain:Uncharacterized protein Rv0906/MT0929,880088358$signal peptide,
+
+Rv0918	hypothetical protein(Rv0918)
+GOTERM_BP_DIRECT	300001494$GO:0006355~regulation of transcription, DNA-templated,300011047$GO:0052572~response to host immune response,
+INTERPRO	530009429$IPR010985:Ribbon-helix-helix,530012478$IPR014795:Vibrio phage ICP1, Orf50,530013837$IPR016547:Uncharacterised conserved protein UCP009158,
+PIR_SUPERFAMILY	700001256$PIRSF009158:uncharacterized conserved protein,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1052	hypothetical protein(Rv1052)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1073	hypothetical protein(Rv1073)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1117	hypothetical protein(Rv1117)
+GOTERM_MF_DIRECT	460000373$GO:0003824~catalytic activity,460000845$GO:0004497~monooxygenase activity,
+INTERPRO	530006087$IPR007138:Antibiotic biosynthesis monooxygenase,530009445$IPR011008:Dimeric alpha-beta barrel,
+UP_KEYWORDS	870000251$Complete proteome,870000736$Monooxygenase,870000802$Oxidoreductase,870000928$Reference proteome,
+
+Rv1205	hypothetical protein(Rv1205)
+GOTERM_BP_DIRECT	300002861$GO:0009691~cytokinin biosynthetic process,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+GOTERM_MF_DIRECT	460002930$GO:0016799~hydrolase activity, hydrolyzing N-glycosyl compounds,
+INTERPRO	530004429$IPR005269:Cytokinin riboside 5'-monophosphate phosphoribohydrolase LOG,
+UP_KEYWORDS	870000251$Complete proteome,870000285$Cytokinin biosynthesis,870000516$Hydrolase,870000610$Isopeptide bond,870000928$Reference proteome,870001125$Ubl conjugation,
+
+Rv1211	hypothetical protein(Rv1211)
+GOTERM_BP_DIRECT	300006471$GO:0033670~regulation of NAD+ kinase activity,300010688$GO:0051336~regulation of hydrolase activity,
+GOTERM_MF_DIRECT	460001527$GO:0005509~calcium ion binding,
+INTERPRO	530018061$IPR021465:Protein of unknown function DUF3117,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1289	hypothetical protein(Rv1289)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063542$chain:Uncharacterized protein Rv1289/MT1327,
+
+Rv1339	hypothetical protein(Rv1339)
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+INTERPRO	530001053$IPR001279:Beta-lactamase-like,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063557$chain:Uncharacterized protein Rv1339/MT1380,
+
+Rv1413	hypothetical protein(Rv1413)
+COG_ONTOLOGY	120000007$Amino acid transport and metabolism,
+INTERPRO	530001329$IPR001608:Alanine racemase, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063577$chain:Uncharacterized protein Rv1413/MT1456.1,
+
+Rv1502	hypothetical protein(Rv1502)
+INTERPRO	530019735$IPR023296:Glycosyl hydrolase, five-bladed beta-propellor domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063591$chain:Uncharacterized protein Rv1502/MT1551,880087857$sequence conflict,
+
+Rv1510	hypothetical protein(Rv1510)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460005305$GO:0046812~host cell surface binding,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880063594$chain:Uncharacterized protein Rv1510/MT1558/MT1560,880089084$transmembrane region,
+
+Rv1535	hypothetical protein(Rv1535)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1752	hypothetical protein(Rv1752)
+COG_ONTOLOGY	120000073$General function prediction only,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1866	hypothetical protein(Rv1866)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460002885$GO:0016740~transferase activity,
+INTERPRO	530002993$IPR003673:CoA-transferase family III,530019997$IPR023606:CoA-transferase family III domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870001085$Transferase,
+
+Rv1867	hypothetical protein(Rv1867)
+GOTERM_BP_DIRECT	300001712$GO:0006635~fatty acid beta-oxidation,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,
+GOTERM_MF_DIRECT	460000499$GO:0003985~acetyl-CoA C-acetyltransferase activity,460000502$GO:0003988~acetyl-CoA C-acyltransferase activity,
+INTERPRO	530013408$IPR016039:Thiolase-like,
+KEGG_PATHWAY	550041914$mtu00071:Fatty acid degradation,550041915$mtu00072:Synthesis and degradation of ketone bodies,550041926$mtu00280:Valine, leucine and isoleucine degradation,550041930$mtu00310:Lysine degradation,550041938$mtu00362:Benzoate degradation,550041940$mtu00380:Tryptophan metabolism,550041963$mtu00620:Pyruvate metabolism,550041970$mtu00630:Glyoxylate and dicarboxylate metabolism,550041972$mtu00640:Propanoate metabolism,550041975$mtu00650:Butanoate metabolism,550041988$mtu00900:Terpenoid backbone biosynthesis,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042002$mtu01200:Carbon metabolism,550042004$mtu01212:Fatty acid metabolism,550042011$mtu02020:Two-component system,
+UP_KEYWORDS	870000039$Acyltransferase,870000251$Complete proteome,870000928$Reference proteome,870001085$Transferase,
+
+Rv1873	hypothetical protein(Rv1873)
+INTERPRO	530012612$IPR014937:Protein of unknown function DUF1810,
+PIR_SUPERFAMILY	700001241$PIRSF008546:uncharacterized conserved protein,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1904	hypothetical protein(Rv1904)
+GOTERM_BP_DIRECT	300001494$GO:0006355~regulation of transcription, DNA-templated,
+GOTERM_MF_DIRECT	460005178$GO:0045152~antisigma factor binding,
+INTERPRO	530002182$IPR002645:STAS domain,530002981$IPR003658:Anti-sigma factor antagonist,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2000	hypothetical protein(Rv2000)
+COG_ONTOLOGY	120000064$Energy production and conversion,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460002784$GO:0016491~oxidoreductase activity,
+INTERPRO	530020127$IPR023753:Pyridine nucleotide-disulphide oxidoreductase, FAD/NAD(P)-binding domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063633$chain:Uncharacterized protein Rv2000/MT2056,
+
+Rv2016	hypothetical protein(Rv2016)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2085	hypothetical protein(Rv2085)
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063655$chain:Uncharacterized protein Rv2085/MT2147,
+
+Rv2132	hypothetical protein(Rv2132)
+GOTERM_BP_DIRECT	300001494$GO:0006355~regulation of transcription, DNA-templated,
+INTERPRO	530001774$IPR002145:Ribbon-helix-helix protein, copG,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2191	hypothetical protein(Rv2191)
+GOTERM_BP_DIRECT	300001427$GO:0006260~DNA replication,300001966$GO:0006974~cellular response to DNA damage stimulus,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,380000544$GO:0009380~excinuclease repair complex,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000435$GO:0003887~DNA-directed DNA polymerase activity,
+INTERPRO	530000239$IPR000305:GIY-YIG nuclease superfamily,530005138$IPR006054:DNA polymerase III, epsilon subunit,530010443$IPR012337:Ribonuclease H-like domain,530011444$IPR013520:Exonuclease, RNase T/DNA polymerase III,
+KEGG_PATHWAY	550041920$mtu00230:Purine metabolism,550041921$mtu00240:Pyrimidine metabolism,550041998$mtu01100:Metabolic pathways,550042015$mtu03030:DNA replication,550042021$mtu03430:Mismatch repair,550042022$mtu03440:Homologous recombination,
+SMART	790000400$SM00465:GIYc,790000414$SM00479:EXOIII,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063660$chain:Uncharacterized protein Rv2191/MT2247,
+
+Rv2227	hypothetical protein(Rv2227)
+INTERPRO	530015667$IPR018655:Protein of unknown function DUF2086,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063671$chain:Uncharacterized protein Rv2227/MT2286,
+
+Rv2248	hypothetical protein(Rv2248)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+INTERPRO	530009714$IPR011335:Restriction endonuclease  type II-like,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063679$chain:Uncharacterized protein Rv2248/MT2308,
+
+Rv2283	hypothetical protein(Rv2283)
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063687$chain:Uncharacterized protein Rv2283/MT2341.1,
+
+Rv2302	hypothetical protein(Rv2302)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,
+INTERPRO	530009497$IPR011067:Plasmid maintenance toxin/Cell growth inhibitor,530012703$IPR015035:Domain of unknown function DUF1918,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063694$chain:Uncharacterized protein Rv2302/MT2359,880075986$compositionally biased region:Ala-rich,880079268$helix,880089040$strand,880089085$turn,
+
+Rv2422	hypothetical protein(Rv2422)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2451	hypothetical protein(Rv2451)
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2472	hypothetical protein(Rv2472)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2507	hypothetical protein(Rv2507)
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+INTERPRO	530007437$IPR008693:Actinomycetales membrane,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv2616	hypothetical protein(Rv2616)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+INTERPRO	530012265$IPR014457:Uncharacterised conserved protein UCP010260,530015950$IPR018960:Domain of unknown function DUF1990,
+PIR_SUPERFAMILY	700001318$PIRSF010260:uncharacterized conserved protein,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2618	hypothetical protein(Rv2618)
+COG_ONTOLOGY	120000115$Transcription,
+INTERPRO	530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2700	hypothetical protein(Rv2700)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+INTERPRO	530023219$IPR027381:Putative LytR/CpsA/Psr regulator, C-terminal domain,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv2807	hypothetical protein(Rv2807)
+GOTERM_BP_DIRECT	300003867$GO:0015074~DNA integration,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000329$GO:0003676~nucleic acid binding,
+INTERPRO	530001309$IPR001584:Integrase, catalytic core,530010443$IPR012337:Ribonuclease H-like domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2843	hypothetical protein(Rv2843)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+INTERPRO	530005363$IPR006311:Twin-arginine translocation pathway, signal sequence,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870000992$Signal,870001092$Transmembrane,
+
+Rv2998	hypothetical protein(Rv2998)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3033	hypothetical protein(Rv3033)
+INTERPRO	530021812$IPR025637:Domain of unknown function DUF4333,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv3067	hypothetical protein(Rv3067)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530006838$IPR007969:Domain of unknown function DUF732,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv3090	hypothetical protein(Rv3090)
+COG_ONTOLOGY	120000095$Posttranslational modification, protein turnover, chaperones,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000407$GO:0005886~plasma membrane,380000408$GO:0005887~integral component of plasma membrane,
+INTERPRO	530000906$IPR001107:Band 7 protein,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv3182	hypothetical protein(Rv3182)
+INTERPRO	530007884$IPR009241:Addiction module killer protein,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870001074$Toxin,
+
+Rv3188	hypothetical protein(Rv3188)
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530020754$IPR024467:Domain of unknown function DUF2384,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3190A	hypothetical protein(Rv3190A)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3235	hypothetical protein(Rv3235)
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3254	hypothetical protein(Rv3254)
+COG_ONTOLOGY	120000047$Coenzyme metabolism / Energy production and conversion,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460002784$GO:0016491~oxidoreductase activity,
+INTERPRO	530020127$IPR023753:Pyridine nucleotide-disulphide oxidoreductase, FAD/NAD(P)-binding domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3269	hypothetical protein(Rv3269)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+INTERPRO	530008541$IPR009963:Protein of unknown function DUF1490,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3466	hypothetical protein(Rv3466)
+INTERPRO	530003168$IPR003870:Domain of unknown function DUF222,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063773$chain:Uncharacterized protein Rv3466/MT3572,880087857$sequence conflict,
+
+Rv3488	hypothetical protein(Rv3488)
+INTERPRO	530004321$IPR005149:Transcription regulator PadR N-terminal,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3489	hypothetical protein(Rv3489)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3577	hypothetical protein(Rv3577)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+INTERPRO	530001053$IPR001279:Beta-lactamase-like,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3651	hypothetical protein(Rv3651)
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3683	hypothetical protein(Rv3683)
+COG_ONTOLOGY	120000073$General function prediction only,
+INTERPRO	530020918$IPR024654:Calcineurin-like phosphoesterase superfamily domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3691	hypothetical protein(Rv3691)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530021821$IPR025646:Domain of unknown function DUF4350,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv3719	hypothetical protein(Rv3719)
+COG_ONTOLOGY	120000064$Energy production and conversion,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460002816$GO:0016614~oxidoreductase activity, acting on CH-OH group of donors,460006265$GO:0050660~flavin adenine dinucleotide binding,
+INTERPRO	530005169$IPR006094:FAD linked oxidase, N-terminal,530013503$IPR016164:FAD-linked oxidase-like, C-terminal,530013504$IPR016166:FAD-binding, type 2,530013506$IPR016169:CO dehydrogenase flavoprotein-like, FAD-binding, subdomain 2,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3732	hypothetical protein(Rv3732)
+GOTERM_CC_DIRECT	380000408$GO:0005887~integral component of plasma membrane,
+INTERPRO	530016205$IPR019283:Protein of unknown function DUF2330,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870000992$Signal,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv3748	hypothetical protein(Rv3748)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3766	hypothetical protein(Rv3766)
+INTERPRO	530015048$IPR017853:Glycoside hydrolase, superfamily,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3776	hypothetical protein(Rv3776)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+INTERPRO	530002957$IPR003615:HNH nuclease,530003168$IPR003870:Domain of unknown function DUF222,
+SMART	790000440$SM00507:HNHc,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3847	hypothetical protein(Rv3847)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3850	hypothetical protein(Rv3850)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+UP_KEYWORDS	870000244$Coiled coil,870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3863	hypothetical protein(Rv3863)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530007679$IPR008984:SMAD/FHA domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1641	initiation factor IF-3(infC)
+GOTERM_BP_DIRECT	300006120$GO:0032790~ribosome disassembly,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000360$GO:0003743~translation initiation factor activity,460004869$GO:0043022~ribosome binding,
+INTERPRO	530001060$IPR001288:Translation initiation factor 3,530016682$IPR019813:Translation initiation factor 3, conserved site,530016683$IPR019814:Translation initiation factor 3, N-terminal,530016684$IPR019815:Translation initiation factor 3, C-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000288$Cytoplasm,870000589$Initiation factor,870000896$Protein biosynthesis,870000928$Reference proteome,
+UP_SEQ_FEATURE	880053879$chain:Translation initiation factor IF-3,
+
+Rv3628	inorganic pyrophosphatase(ppa)
+GOTERM_BP_DIRECT	300001837$GO:0006796~phosphate-containing compound metabolic process,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000058$GO:0000287~magnesium ion binding,460000789$GO:0004427~inorganic diphosphatase activity,
+INTERPRO	530007010$IPR008162:Inorganic pyrophosphatase,
+KEGG_PATHWAY	550041918$mtu00190:Oxidative phosphorylation,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000288$Cytoplasm,870000516$Hydrolase,870000670$Magnesium,870000691$Metal-binding,870000928$Reference proteome,870000970$Secreted,
+UP_SEQ_FEATURE	880021643$chain:Inorganic pyrophosphatase,880079268$helix,880079530$metal ion-binding site:Magnesium 1,880079533$metal ion-binding site:Magnesium 2,880089040$strand,880089085$turn,
+
+Rv3798	insertion sequence element IS1557 transposase(Rv3798)
+COG_ONTOLOGY	120000057$DNA replication, recombination, and repair,
+GOTERM_BP_DIRECT	300001469$GO:0006310~DNA recombination,300005826$GO:0032196~transposition,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530002116$IPR002560:Transposase IS204/IS1001/IS1096/IS1165,
+UP_KEYWORDS	870000251$Complete proteome,870000326$DNA recombination,870000331$DNA-binding,870000928$Reference proteome,870001105$Transposable element,870001106$Transposition,
+UP_SEQ_FEATURE	880054391$chain:Transposase for insertion sequence element IS1557,880087857$sequence conflict,
+
+Rv2874	integral membrane C-type cytochrome biogenesis protein DipZ(dipZ)
+GOTERM_BP_DIRECT	300004295$GO:0017004~cytochrome complex assembly,300008997$GO:0045454~cell redox homeostasis,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460002707$GO:0016209~antioxidant activity,460002784$GO:0016491~oxidoreductase activity,
+INTERPRO	530000707$IPR000866:Alkyl hydroperoxide reductase subunit C/ Thiol specific antioxidant,530003141$IPR003834:Cytochrome c assembly protein, transmembrane domain,530007674$IPR008979:Galactose-binding domain-like,530010442$IPR012336:Thioredoxin-like fold,530011669$IPR013766:Thioredoxin domain,
+UP_KEYWORDS	870000010$3D-structure,870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880037990$chain:Protein dipZ,880078910$domain:Thioredoxin,880079268$helix,880087857$sequence conflict,880089040$strand,880089084$transmembrane region,880089085$turn,
+
+Rv0246	integral membrane protein(Rv0246)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530017485$IPR020846:Major facilitator superfamily domain,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1140	integral membrane protein(Rv1140)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530002995$IPR003675:CAAX amino terminal protease,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1678	integral membrane protein(Rv1678)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv3224	iron-regulated short-chain dehydrogenase/reductase(Rv3224)
+GOTERM_BP_DIRECT	300003076$GO:0010039~response to iron ion,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+INTERPRO	530001946$IPR002347:Glucose/ribitol dehydrogenase,530013409$IPR016040:NAD(P)-binding domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1076	lipase LipU(lipU)
+COG_ONTOLOGY	120000084$Lipid metabolism,
+GOTERM_BP_DIRECT	300002484$GO:0008152~metabolic process,
+GOTERM_MF_DIRECT	460002923$GO:0016787~hydrolase activity,
+INTERPRO	530011077$IPR013094:Alpha/beta hydrolase fold-3,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3576	lipoprotein LppH(lppH)
+INTERPRO	530022915$IPR026954:PknH-like extracellular domain,
+UP_KEYWORDS	870000251$Complete proteome,870000660$Lipoprotein,870000928$Reference proteome,870000992$Signal,
+
+Rv2290	lipoprotein LppO(lppO)
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000407$GO:0005886~plasma membrane,380000667$GO:0016020~membrane,
+INTERPRO	530007435$IPR008691:19kDa lipoprotein antigen, Mycobacterium,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000660$Lipoprotein,870000683$Membrane,870000807$Palmitate,870000928$Reference proteome,870000992$Signal,
+UP_SEQ_FEATURE	880043181$chain:Putative lipoprotein lppO,880079287$lipid moiety-binding region:N-palmitoyl cysteine,880079301$lipid moiety-binding region:S-diacylglycerol cysteine,880088358$signal peptide,
+
+Rv1799	lipoprotein LppT(lppT)
+UP_KEYWORDS	870000251$Complete proteome,870000660$Lipoprotein,870000928$Reference proteome,870000992$Signal,
+
+Rv2905	lipoprotein LppW(lppW)
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000407$GO:0005886~plasma membrane,
+INTERPRO	530010444$IPR012338:Beta-lactamase/transpeptidase-like,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000660$Lipoprotein,870000683$Membrane,870000807$Palmitate,870000928$Reference proteome,870000992$Signal,
+UP_SEQ_FEATURE	880043183$chain:Putative lipoprotein lppW,880079287$lipid moiety-binding region:N-palmitoyl cysteine,880079301$lipid moiety-binding region:S-diacylglycerol cysteine,880088358$signal peptide,
+
+Rv2999	lipoprotein LppY(lppY)
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+INTERPRO	530009517$IPR011094:Uncharacterised protein family, LppY/LpqO,
+UP_KEYWORDS	870000251$Complete proteome,870000660$Lipoprotein,870000928$Reference proteome,870000992$Signal,
+
+Rv3006	lipoprotein LppZ(lppZ)
+COG_ONTOLOGY	120000016$Carbohydrate transport and metabolism,
+GOTERM_BP_DIRECT	300001227$GO:0005975~carbohydrate metabolic process,
+GOTERM_MF_DIRECT	460002999$GO:0016901~oxidoreductase activity, acting on the CH-OH group of donors, quinone or similar compound as acceptor,460005885$GO:0048038~quinone binding,
+INTERPRO	530009474$IPR011041:Soluble quinoprotein glucose/sorbosone dehydrogenase,530009475$IPR011042:Six-bladed beta-propeller, TolB-like,530010965$IPR012938:Glucose/Sorbosone dehydrogenase,
+UP_KEYWORDS	870000251$Complete proteome,870000660$Lipoprotein,870000928$Reference proteome,870000992$Signal,
+
+Rv3623	lipoprotein LpqG(lpqG)
+INTERPRO	530006412$IPR007497:Protein of unknown function DUF541,
+UP_KEYWORDS	870000251$Complete proteome,870000660$Lipoprotein,870000928$Reference proteome,870000992$Signal,
+
+Rv0237	lipoprotein LpqI(lpqI)
+GOTERM_BP_DIRECT	300001227$GO:0005975~carbohydrate metabolic process,300002703$GO:0009254~peptidoglycan turnover,
+GOTERM_MF_DIRECT	460000889$GO:0004553~hydrolase activity, hydrolyzing O-glycosyl compounds,
+INTERPRO	530001463$IPR001764:Glycoside hydrolase, family 3, N-terminal,530015048$IPR017853:Glycoside hydrolase, superfamily,
+KEGG_PATHWAY	550041952$mtu00520:Amino sugar and nucleotide sugar metabolism,550042007$mtu01501:beta-Lactam resistance,
+UP_KEYWORDS	870000251$Complete proteome,870000436$Glycosidase,870000516$Hydrolase,870000660$Lipoprotein,870000928$Reference proteome,870000992$Signal,
+
+Rv0835	lipoprotein LpqQ(lpqQ)
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,
+INTERPRO	530022915$IPR026954:PknH-like extracellular domain,
+UP_KEYWORDS	870000251$Complete proteome,870000660$Lipoprotein,870000928$Reference proteome,870000992$Signal,
+
+Rv0847	lipoprotein LpqS(lpqS)
+GOTERM_BP_DIRECT	300009632$GO:0046688~response to copper ion,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000660$Lipoprotein,870000683$Membrane,870000807$Palmitate,870000928$Reference proteome,870000992$Signal,
+
+Rv1228	lipoprotein LpqX(lpqX)
+UP_KEYWORDS	870000251$Complete proteome,870000660$Lipoprotein,870000928$Reference proteome,
+
+Rv1368	lipoprotein LprF(lprF)
+GOTERM_BP_DIRECT	300001891$GO:0006869~lipid transport,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460001677$GO:0008289~lipid binding,
+INTERPRO	530008415$IPR009830:Protein of unknown function DUF1396, LppX/LprAFG lipoprotein,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000435$Glycoprotein,870000657$Lipid transport,870000658$Lipid-binding,870000660$Lipoprotein,870000683$Membrane,870000807$Palmitate,870000928$Reference proteome,870000992$Signal,870001103$Transport,
+UP_SEQ_FEATURE	880043191$chain:Putative lipoprotein lprF,880079287$lipid moiety-binding region:N-palmitoyl cysteine,880079301$lipid moiety-binding region:S-diacylglycerol cysteine,880088358$signal peptide,
+
+Rv1922	lipoprotein(Rv1922)
+INTERPRO	530001213$IPR001466:Beta-lactamase-related,530010444$IPR012338:Beta-lactamase/transpeptidase-like,
+UP_KEYWORDS	870000251$Complete proteome,870000660$Lipoprotein,870000928$Reference proteome,870000992$Signal,
+
+Rv3826	long-chain-fatty-acid--CoA ligase FadD23(fadD23)
+GOTERM_BP_DIRECT	300001711$GO:0006633~fatty acid biosynthetic process,300002484$GO:0008152~metabolic process,300009542$GO:0046506~sulfolipid biosynthetic process,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460000373$GO:0003824~catalytic activity,460000818$GO:0004467~long-chain fatty acid-CoA ligase activity,460001536$GO:0005524~ATP binding,460006858$GO:0070566~adenylyltransferase activity,460007330$GO:0102391~decanoate--CoA ligase activity,
+INTERPRO	530000714$IPR000873:AMP-dependent synthetase/ligase,
+UP_KEYWORDS	870000104$ATP-binding,870000251$Complete proteome,870000378$Fatty acid metabolism,870000646$Ligase,870000656$Lipid metabolism,870000683$Membrane,870000786$Nucleotide-binding,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1473	macrolide ABC transporter ATP-binding protein(Rv1473)
+COG_ONTOLOGY	120000073$General function prediction only,
+GOTERM_BP_DIRECT	300009625$GO:0046677~response to antibiotic,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460001536$GO:0005524~ATP binding,460002989$GO:0016887~ATPase activity,
+INTERPRO	530002807$IPR003439:ABC transporter-like,530002940$IPR003593:AAA+ ATPase domain,530015063$IPR017871:ABC transporter, conserved site,530023254$IPR027417:P-loop containing nucleoside triphosphate hydrolase,
+SMART	790000325$SM00382:AAA,
+UP_KEYWORDS	870000104$ATP-binding,870000251$Complete proteome,870000786$Nucleotide-binding,870000928$Reference proteome,
+
+Rv0127	maltokinase(mak)
+GOTERM_BP_DIRECT	300001230$GO:0005978~glycogen biosynthetic process,300001244$GO:0005992~trehalose biosynthetic process,300007714$GO:0040007~growth,300009692$GO:0046835~carbohydrate phosphorylation,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460001536$GO:0005524~ATP binding,460002737$GO:0016301~kinase activity,
+INTERPRO	530009446$IPR011009:Protein kinase-like domain,
+KEGG_PATHWAY	550041951$mtu00500:Starch and sucrose metabolism,
+UP_KEYWORDS	870000010$3D-structure,870000104$ATP-binding,870000173$Carbohydrate metabolism,870000251$Complete proteome,870000430$Glycogen biosynthesis,870000431$Glycogen metabolism,870000620$Kinase,870000786$Nucleotide-binding,870000928$Reference proteome,870001085$Transferase,
+
+Rv0071	maturase(Rv0071)
+INTERPRO	530000376$IPR000477:Reverse transcriptase,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0007	membrane protein(Rv0007)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000408$GO:0005887~integral component of plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530018519$IPR021949:Domain of unknown function DUF3566. transmembrane,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880063446$chain:Uncharacterized protein Rv0007/MT0007,880089084$transmembrane region,
+
+Rv0538	membrane protein(Rv0538)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv0621	membrane protein(Rv0621)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv0686	membrane protein(Rv0686)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1371	membrane protein(Rv1371)
+COG_ONTOLOGY	120000084$Lipid metabolism,
+GOTERM_BP_DIRECT	300001709$GO:0006629~lipid metabolic process,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530000982$IPR001199:Cytochrome b5-like heme/steroid binding domain,530004916$IPR005804:Fatty acid desaturase, type 1,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1615	membrane protein(Rv1615)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+INTERPRO	530006718$IPR007829:TM2,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv3395A	membrane protein(Rv3395A)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv3675	membrane protein(Rv3675)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3695	membrane protein(Rv3695)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+INTERPRO	530008965$IPR010432:RDD,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv3760	membrane protein(Rv3760)
+COG_ONTOLOGY	120000070$Function unknown,
+GOTERM_CC_DIRECT	380000408$GO:0005887~integral component of plasma membrane,
+INTERPRO	530008977$IPR010445:Protein of unknown function DUF1049,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv0167	membrane protein(yrbE1A)
+GOTERM_BP_DIRECT	300004070$GO:0015914~phospholipid transport,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380001569$GO:0043190~ATP-binding cassette (ABC) transporter complex,
+GOTERM_MF_DIRECT	460001546$GO:0005543~phospholipid binding,460001551$GO:0005548~phospholipid transporter activity,
+KEGG_PATHWAY	550042010$mtu02010:ABC transporters,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1406	methionyl-tRNA formyltransferase(fmt)
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,
+GOTERM_MF_DIRECT	460000828$GO:0004479~methionyl-tRNA formyltransferase activity,
+INTERPRO	530001966$IPR002376:Formyl transferase, N-terminal,530004908$IPR005793:Formyl transferase, C-terminal,530004909$IPR005794:Methionyl-tRNA formyltransferase,530009468$IPR011034:Formyl transferase, C-terminal-like,
+KEGG_PATHWAY	550041977$mtu00670:One carbon pool by folate,550041994$mtu00970:Aminoacyl-tRNA biosynthesis,
+UP_KEYWORDS	870000251$Complete proteome,870000896$Protein biosynthesis,870000928$Reference proteome,870001085$Transferase,
+UP_SEQ_FEATURE	880025955$chain:Methionyl-tRNA formyltransferase,880085560$region of interest:Tetrahydrofolate (THF) binding,
+
+Rv3116	molybdenum cofactor biosynthesis protein MoeB(moeB2)
+GOTERM_BP_DIRECT	300000634$GO:0002143~tRNA wobble position uridine thiolation,300005952$GO:0032447~protein urmylation,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+GOTERM_MF_DIRECT	460001090$GO:0004792~thiosulfate sulfurtransferase activity,460004772$GO:0042292~URM1 activating enzyme activity,460006887$GO:0070733~protein adenylyltransferase activity,
+INTERPRO	530000474$IPR000594:UBA/THIF-type NAD/FAD binding fold,530001462$IPR001763:Rhodanese-like domain,530013409$IPR016040:NAD(P)-binding domain,
+KEGG_PATHWAY	550042024$mtu04122:Sulfur relay system,
+SMART	790000385$SM00450:RHOD,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3119	molybdopterin synthase catalytic subunit 1(moaE1)
+GOTERM_BP_DIRECT	300001822$GO:0006777~Mo-molybdopterin cofactor biosynthetic process,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+GOTERM_MF_DIRECT	460003609$GO:0030366~molybdopterin synthase activity,
+INTERPRO	530002816$IPR003448:Molybdopterin biosynthesis MoaE,
+KEGG_PATHWAY	550041986$mtu00790:Folate biosynthesis,550041998$mtu01100:Metabolic pathways,550042024$mtu04122:Sulfur relay system,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000734$Molybdenum cofactor biosynthesis,870000928$Reference proteome,870001085$Transferase,
+UP_SEQ_FEATURE	880026732$chain:Molybdopterin-converting factor subunit 2 1,
+
+Rv0793	monooxygenase(Rv0793)
+GOTERM_MF_DIRECT	460000373$GO:0003824~catalytic activity,460000845$GO:0004497~monooxygenase activity,
+INTERPRO	530006087$IPR007138:Antibiotic biosynthesis monooxygenase,530009445$IPR011008:Dimeric alpha-beta barrel,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000736$Monooxygenase,870000802$Oxidoreductase,870000928$Reference proteome,
+
+Rv0892	monooxygenase(Rv0892)
+COG_ONTOLOGY	120000075$Inorganic ion transport and metabolism,
+GOTERM_BP_DIRECT	300011127$GO:0055114~oxidation-reduction process,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,
+GOTERM_MF_DIRECT	460000845$GO:0004497~monooxygenase activity,460000847$GO:0004499~N,N-dimethylaniline monooxygenase activity,460006265$GO:0050660~flavin adenine dinucleotide binding,460006266$GO:0050661~NADP binding,
+INTERPRO	530017572$IPR020946:Flavin monooxygenase-like,530020127$IPR023753:Pyridine nucleotide-disulphide oxidoreductase, FAD/NAD(P)-binding domain,
+UP_KEYWORDS	870000251$Complete proteome,870000374$FAD,870000388$Flavoprotein,870000736$Monooxygenase,870000754$NADP,870000802$Oxidoreductase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880000318$binding site:FAD,880000321$binding site:FAD; via amide nitrogen and carbonyl oxygen,880058054$chain:Uncharacterized monooxygenase Rv0892/MT0916,880089038$site:Transition state stabilizer,
+
+Rv0316	muconolactone isomerase(Rv0316)
+GOTERM_BP_DIRECT	300001789$GO:0006725~cellular aromatic compound metabolic process,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,
+GOTERM_MF_DIRECT	460002963$GO:0016853~isomerase activity,
+INTERPRO	530002830$IPR003464:Muconolactone delta-isomerase,530009445$IPR011008:Dimeric alpha-beta barrel,530022154$IPR026029:Muconolactone isomerase domain,
+UP_KEYWORDS	870000251$Complete proteome,870000609$Isomerase,870000928$Reference proteome,
+
+Rv0194	multidrug ABC transporter ATPase/permease(Rv0194)
+COG_ONTOLOGY	120000055$Defense mechanisms,
+GOTERM_BP_DIRECT	300008177$GO:0042891~antibiotic transport,300009625$GO:0046677~response to antibiotic,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460001536$GO:0005524~ATP binding,460002611$GO:0015562~efflux transmembrane transporter activity,460004285$GO:0034040~lipid-transporting ATPase activity,
+INTERPRO	530002807$IPR003439:ABC transporter-like,530002940$IPR003593:AAA+ ATPase domain,530009851$IPR011527:ABC transporter, transmembrane domain, type 1,530015063$IPR017871:ABC transporter, conserved site,530023254$IPR027417:P-loop containing nucleoside triphosphate hydrolase,
+SMART	790000325$SM00382:AAA,
+UP_KEYWORDS	870000077$Antibiotic resistance,870000104$ATP-binding,870000188$Cell inner membrane,870000190$Cell membrane,870000251$Complete proteome,870000516$Hydrolase,870000683$Membrane,870000786$Nucleotide-binding,870000928$Reference proteome,870000935$Repeat,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+
+Rv3065	multidrug resistance protein Mmr(mmr)
+GOTERM_BP_DIRECT	300001846$GO:0006810~transport,300009625$GO:0046677~response to antibiotic,300011111$GO:0055085~transmembrane transport,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000408$GO:0005887~integral component of plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460002611$GO:0015562~efflux transmembrane transporter activity,460003511$GO:0022857~transmembrane transporter activity,460003521$GO:0022891~substrate-specific transmembrane transporter activity,
+INTERPRO	530000308$IPR000390:Small multidrug resistance protein family,
+UP_KEYWORDS	870000010$3D-structure,870000077$Antibiotic resistance,870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+UP_SEQ_FEATURE	880027035$chain:Multidrug resistance protein mmr,880089084$transmembrane region,
+
+Rv1082	mycothiol S-conjugate amidase(mca)
+GOTERM_BP_DIRECT	300003146$GO:0010125~mycothiol biosynthetic process,300003147$GO:0010126~mycothiol metabolic process,300003148$GO:0010127~mycothiol-dependent detoxification,300011042$GO:0052556~positive regulation by symbiont of host immune response,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460001672$GO:0008270~zinc ion binding,460002923$GO:0016787~hydrolase activity,460002934$GO:0016810~hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds,460002935$GO:0016811~hydrolase activity, acting on carbon-nitrogen (but not peptide) bonds, in linear amides,
+INTERPRO	530003054$IPR003737:N-acetylglucosaminyl phosphatidylinositol deacetylase,530015007$IPR017811:Mycothiol conjugate amidase, Mca,530020418$IPR024078:Putative deacetylase LmbE-like domain,
+UP_KEYWORDS	870000251$Complete proteome,870000516$Hydrolase,870000691$Metal-binding,870000928$Reference proteome,870001206$Zinc,
+
+Rv2207	nicotinate-nucleotide-dimethylbenzimidazol phosphoribosyltransferase(cobT)
+GOTERM_BP_DIRECT	300002656$GO:0009163~nucleoside biosynthetic process,300002688$GO:0009236~cobalamin biosynthetic process,
+GOTERM_MF_DIRECT	460002088$GO:0008939~nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase activity,460002545$GO:0015420~cobalamin-transporting ATPase activity,
+INTERPRO	530002630$IPR003200:Nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase-like,530015041$IPR017846:Nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase, prokaryotic,530019646$IPR023195:Nicotinate-nucleotide-dimethylbenzimidazole phosphoribosyltransferase, N-terminal,
+KEGG_PATHWAY	550041987$mtu00860:Porphyrin and chlorophyll metabolism,550041998$mtu01100:Metabolic pathways,
+UP_KEYWORDS	870000238$Cobalamin biosynthesis,870000251$Complete proteome,870000438$Glycosyltransferase,870000928$Reference proteome,870001085$Transferase,
+UP_SEQ_FEATURE	880000109$active site:Proton acceptor,880028357$chain:Nicotinate-nucleotide-- dimethylbenzimidazole phosphoribosyltransferase,
+
+Rv1161	nitrate reductase subunit alpha(narG)
+COG_ONTOLOGY	120000064$Energy production and conversion,
+GOTERM_BP_DIRECT	300000273$GO:0001101~response to acid chemical,300007802$GO:0042126~nitrate metabolic process,300007804$GO:0042128~nitrate assimilation,300008497$GO:0043602~nitrate catabolic process,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,380000514$GO:0009325~nitrate reductase complex,
+GOTERM_MF_DIRECT	460002089$GO:0008940~nitrate reductase activity,460002172$GO:0009055~electron carrier activity,460003543$GO:0030151~molybdenum ion binding,460006372$GO:0051539~4 iron, 4 sulfur cluster binding,
+INTERPRO	530005509$IPR006468:Nitrate reductase, alpha subunit,530005674$IPR006655:Molybdopterin oxidoreductase, prokaryotic, conserved site,530005675$IPR006656:Molybdopterin oxidoreductase,530005676$IPR006657:Molydopterin dinucleotide-binding domain,530005950$IPR006963:Molybdopterin oxidoreductase, 4Fe-4S domain,530007699$IPR009010:Aspartate decarboxylase-like domain,530023297$IPR027467:Molybdopterin oxidoreductase, molybdopterin cofactor binding site,
+KEGG_PATHWAY	550041991$mtu00910:Nitrogen metabolism,550042000$mtu01120:Microbial metabolism in diverse environments,550042011$mtu02020:Two-component system,
+SMART	790000811$SM00926:SM00926,
+UP_KEYWORDS	870000013$4Fe-4S,870000030$Acetylation,870000190$Cell membrane,870000251$Complete proteome,870000343$Electron transport,870000604$Iron,870000607$Iron-sulfur,870000683$Membrane,870000691$Metal-binding,870000733$Molybdenum,870000773$Nitrate assimilation,870000802$Oxidoreductase,870000928$Reference proteome,870001103$Transport,
+
+Rv0252	nitrite reductase large subunit NirB(nirB)
+GOTERM_BP_DIRECT	300007804$GO:0042128~nitrate assimilation,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460002091$GO:0008942~nitrite reductase [NAD(P)H] activity,460003490$GO:0020037~heme binding,460005313$GO:0046872~metal ion binding,460006265$GO:0050660~flavin adenine dinucleotide binding,460006266$GO:0050661~NADP binding,460006372$GO:0051539~4 iron, 4 sulfur cluster binding,
+INTERPRO	530004292$IPR005117:Nitrite/Sulfite reductase ferredoxin-like domain,530005148$IPR006066:Nitrite/sulphite reductase iron-sulphur/siroheam-binding site,530005149$IPR006067:Nitrite/sulphite reductase 4Fe-4S domain,530006346$IPR007419:BFD-like [2Fe-2S]-binding domain,530010781$IPR012744:Nitrite reductase [NAD(P)H] large subunit, NirB,530014384$IPR017121:Nitrite reductase [NAD(P)H], large subunit,530020127$IPR023753:Pyridine nucleotide-disulphide oxidoreductase, FAD/NAD(P)-binding domain,
+KEGG_PATHWAY	550041991$mtu00910:Nitrogen metabolism,550042000$mtu01120:Microbial metabolism in diverse environments,
+PIR_SUPERFAMILY	700002692$PIRSF037149:nitrite reductase [NAD(P)H], large subunit,
+UP_KEYWORDS	870000013$4Fe-4S,870000251$Complete proteome,870000459$Heme,870000604$Iron,870000607$Iron-sulfur,870000691$Metal-binding,870000802$Oxidoreductase,870000928$Reference proteome,
+
+Rv0063	oxidoreductase(Rv0063)
+COG_ONTOLOGY	120000064$Energy production and conversion,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,
+GOTERM_MF_DIRECT	460002816$GO:0016614~oxidoreductase activity, acting on CH-OH group of donors,460006265$GO:0050660~flavin adenine dinucleotide binding,
+INTERPRO	530005168$IPR006093:Oxygen oxidoreductase covalent FAD-binding site,530005169$IPR006094:FAD linked oxidase, N-terminal,530005363$IPR006311:Twin-arginine translocation pathway, signal sequence,530010977$IPR012951:Berberine/berberine-like,530013504$IPR016166:FAD-binding, type 2,530013505$IPR016167:FAD-binding, type 2, subdomain 1,530013506$IPR016169:CO dehydrogenase flavoprotein-like, FAD-binding, subdomain 2,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000992$Signal,
+
+Rv1050	oxidoreductase(Rv1050)
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000407$GO:0005886~plasma membrane,
+INTERPRO	530001946$IPR002347:Glucose/ribitol dehydrogenase,530013409$IPR016040:NAD(P)-binding domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1726	oxidoreductase(Rv1726)
+COG_ONTOLOGY	120000064$Energy production and conversion,
+GOTERM_MF_DIRECT	460002816$GO:0016614~oxidoreductase activity, acting on CH-OH group of donors,460006265$GO:0050660~flavin adenine dinucleotide binding,
+INTERPRO	530005169$IPR006094:FAD linked oxidase, N-terminal,530010977$IPR012951:Berberine/berberine-like,530013504$IPR016166:FAD-binding, type 2,530013505$IPR016167:FAD-binding, type 2, subdomain 1,530013506$IPR016169:CO dehydrogenase flavoprotein-like, FAD-binding, subdomain 2,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2893	oxidoreductase(Rv2893)
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000845$GO:0004497~monooxygenase activity,460002862$GO:0016705~oxidoreductase activity, acting on paired donors, with incorporation or reduction of molecular oxygen,
+INTERPRO	530009635$IPR011251:Luciferase-like domain,530016780$IPR019923:Luciferase-like, F420-dependent oxidoreductase, MSMEG2516, predicted,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3330	penicillin-binding protein DacB(dacB1)
+GOTERM_BP_DIRECT	300002701$GO:0009252~peptidoglycan biosynthetic process,
+GOTERM_CC_DIRECT	380000408$GO:0005887~integral component of plasma membrane,
+GOTERM_MF_DIRECT	460000667$GO:0004175~endopeptidase activity,460002135$GO:0009002~serine-type D-Ala-D-Ala carboxypeptidase activity,
+INTERPRO	530001629$IPR001967:Peptidase S11, D-alanyl-D-alanine carboxypeptidase A, N-terminal,530010444$IPR012338:Beta-lactamase/transpeptidase-like,530015192$IPR018044:Peptidase S11, D-alanyl-D-alanine carboxypeptidase A,
+KEGG_PATHWAY	550041956$mtu00550:Peptidoglycan biosynthesis,550041998$mtu01100:Metabolic pathways,
+UP_KEYWORDS	870000010$3D-structure,870000175$Carboxypeptidase,870000251$Complete proteome,870000516$Hydrolase,870000683$Membrane,870000893$Protease,870000928$Reference proteome,870000992$Signal,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1477	peptidoglycan endopeptidase RipA(ripA)
+COG_ONTOLOGY	120000032$Cell envelope biogenesis, outer membrane,120000070$Function unknown,
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,300012874$GO:0071555~cell wall organization,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,
+GOTERM_MF_DIRECT	460001649$GO:0008234~cysteine-type peptidase activity,460001917$GO:0008745~N-acetylmuramoyl-L-alanine amidase activity,
+INTERPRO	530000048$IPR000064:Endopeptidase, NLPC/P60 domain,
+UP_KEYWORDS	870000010$3D-structure,870000195$Cell wall biogenesis/degradation,870000244$Coiled coil,870000251$Complete proteome,870000516$Hydrolase,870000893$Protease,870000928$Reference proteome,870000970$Secreted,870000992$Signal,870001062$Thiol protease,
+
+Rv1573	phage protein(Rv1573)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3113	phosphatase(Rv3113)
+GOTERM_BP_DIRECT	300002484$GO:0008152~metabolic process,300007714$GO:0040007~growth,
+GOTERM_MF_DIRECT	460002923$GO:0016787~hydrolase activity,
+INTERPRO	530005481$IPR006439:HAD-superfamily hydrolase, subfamily IA, variant 1,530019663$IPR023214:HAD-like domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0928	phosphate ABC transporter substrate-binding lipoprotein PstS(pstS3)
+GOTERM_BP_DIRECT	300001852$GO:0006817~phosphate ion transport,300004118$GO:0016036~cellular response to phosphate starvation,300007053$GO:0035435~phosphate ion transmembrane transport,300008618$GO:0044117~growth of symbiont in host,300011019$GO:0052170~negative regulation by symbiont of host innate immune response,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,380001569$GO:0043190~ATP-binding cassette (ABC) transporter complex,
+GOTERM_MF_DIRECT	460002540$GO:0015415~phosphate ion transmembrane-transporting ATPase activity,460004776$GO:0042301~phosphate ion binding,
+INTERPRO	530004793$IPR005673:ABC transporter, phosphate-binding protein PstS,530020663$IPR024370:PBP domain,
+KEGG_PATHWAY	550042010$mtu02010:ABC transporters,550042011$mtu02020:Two-component system,550042026$mtu05152:Tuberculosis,
+PIR_SUPERFAMILY	700000622$PIRSF002756:ABC-type phosphate transporter, substrate-binding component,
+UP_KEYWORDS	870000010$3D-structure,870000190$Cell membrane,870000251$Complete proteome,870000660$Lipoprotein,870000683$Membrane,870000807$Palmitate,870000834$Phosphate transport,870000928$Reference proteome,870000992$Signal,870001024$Stress response,870001103$Transport,
+UP_SEQ_FEATURE	880031883$chain:Phosphate-binding protein pstS 3,880079287$lipid moiety-binding region:N-palmitoyl cysteine,880079301$lipid moiety-binding region:S-diacylglycerol cysteine,880087858$sequence variant,880088358$signal peptide,
+
+Rv0803	phosphoribosylformylglycinamidine synthase 2(purL)
+GOTERM_BP_DIRECT	300001366$GO:0006164~purine nucleotide biosynthetic process,300001387$GO:0006189~'de novo' IMP biosynthetic process,300001629$GO:0006541~glutamine metabolic process,300002652$GO:0009156~ribonucleoside monophosphate biosynthetic process,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,
+GOTERM_MF_DIRECT	460000058$GO:0000287~magnesium ion binding,460000965$GO:0004642~phosphoribosylformylglycinamidine synthase activity,460001536$GO:0005524~ATP binding,
+INTERPRO	530008636$IPR010074:Phosphoribosylformylglycinamidine synthase II,530009373$IPR010918:AIR synthase-related protein, C-terminal domain,530013523$IPR016188:PurM, N-terminal-like,
+KEGG_PATHWAY	550041920$mtu00230:Purine metabolism,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042001$mtu01130:Biosynthesis of antibiotics,
+PIR_SUPERFAMILY	700000478$PIRSF001587:phosphoribosylformylglycinamidine synthase component II,
+UP_KEYWORDS	870000104$ATP-binding,870000251$Complete proteome,870000288$Cytoplasm,870000646$Ligase,870000670$Magnesium,870000691$Metal-binding,870000786$Nucleotide-binding,870000907$Purine biosynthesis,870000928$Reference proteome,
+UP_SEQ_FEATURE	880032214$chain:Phosphoribosylformylglycinamidine synthase 2,880079647$nucleotide phosphate-binding region:ATP,880087857$sequence conflict,
+
+Rv0956	phosphoribosylglycinamide formyltransferase PurN(purN)
+GOTERM_BP_DIRECT	300001387$GO:0006189~'de novo' IMP biosynthetic process,300009605$GO:0046653~tetrahydrofolate metabolic process,
+GOTERM_MF_DIRECT	460000058$GO:0000287~magnesium ion binding,460000967$GO:0004644~phosphoribosylglycinamide formyltransferase activity,
+INTERPRO	530001966$IPR002376:Formyl transferase, N-terminal,530003823$IPR004607:Phosphoribosylglycinamide formyltransferase,
+KEGG_PATHWAY	550041920$mtu00230:Purine metabolism,550041977$mtu00670:One carbon pool by folate,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042001$mtu01130:Biosynthesis of antibiotics,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000670$Magnesium,870000691$Metal-binding,870000907$Purine biosynthesis,870000928$Reference proteome,870001085$Transferase,
+
+Rv0088	polyketide cyclase/dehydrase(Rv0088)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+INTERPRO	530016479$IPR019587:Polyketide cyclase/dehydrase,530019812$IPR023393:START-like domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063463$chain:Uncharacterized protein Rv0088/MT0096,880087857$sequence conflict,
+
+Rv2702	polyphosphate glucokinase(ppgK)
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,
+GOTERM_MF_DIRECT	460000715$GO:0004340~glucokinase activity,460001536$GO:0005524~ATP binding,460002737$GO:0016301~kinase activity,460005516$GO:0047330~polyphosphate-glucose phosphotransferase activity,
+INTERPRO	530000479$IPR000600:ROK,
+KEGG_PATHWAY	550041906$mtu00010:Glycolysis / Gluconeogenesis,550041952$mtu00520:Amino sugar and nucleotide sugar metabolism,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042002$mtu01200:Carbon metabolism,
+UP_KEYWORDS	870000104$ATP-binding,870000251$Complete proteome,870000620$Kinase,870000786$Nucleotide-binding,870000928$Reference proteome,870001085$Transferase,
+UP_SEQ_FEATURE	880032879$chain:Polyphosphate glucokinase,880079647$nucleotide phosphate-binding region:ATP,880087857$sequence conflict,880087858$sequence variant,
+
+Rv2672	protease(Rv2672)
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,
+GOTERM_MF_DIRECT	460001648$GO:0008233~peptidase activity,
+INTERPRO	530011512$IPR013595:Peptidase S33 tripeptidyl aminopeptidase-like, C-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000516$Hydrolase,870000893$Protease,870000928$Reference proteome,870000992$Signal,
+
+Rv2232	protein tyrosine kinase transcriptional regulator PtkA(ptkA)
+GOTERM_BP_DIRECT	300009668$GO:0046777~protein autophosphorylation,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,
+GOTERM_MF_DIRECT	460000058$GO:0000287~magnesium ion binding,460001021$GO:0004713~protein tyrosine kinase activity,460002926$GO:0016791~phosphatase activity,
+INTERPRO	530019649$IPR023198:Phosphoglycolate phosphatase, domain 2,530019663$IPR023214:HAD-like domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063674$chain:Uncharacterized protein Rv2232/MT2292,
+
+Rv1440	protein-export membrane protein SecG(secG)
+GOTERM_BP_DIRECT	300002733$GO:0009306~protein secretion,300010997$GO:0052059~evasion or tolerance by symbiont of host-produced reactive oxygen species,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460002565$GO:0015450~P-P-bond-hydrolysis-driven protein transmembrane transporter activity,
+INTERPRO	530003906$IPR004692:Preprotein translocase SecG subunit,
+KEGG_PATHWAY	550042017$mtu03060:Protein export,550042018$mtu03070:Bacterial secretion system,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000902$Protein transport,870000928$Reference proteome,870001091$Translocation,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+UP_SEQ_FEATURE	880036061$chain:Probable protein-export membrane protein secG,880089084$transmembrane region,
+
+Rv2561	pseudo(Rv2561)
+UP_SEQ_FEATURE	880063710$chain:Uncharacterized protein Rv2561/Rv2562/MT2638,
+
+Rv2713	pyridine nucleotide transhydrogenase(sthA)
+GOTERM_BP_DIRECT	300001798$GO:0006739~NADP metabolic process,300008997$GO:0045454~cell redox homeostasis,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000294$GO:0005737~cytoplasm,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000479$GO:0003957~NAD(P)+ transhydrogenase (B-specific) activity,460006265$GO:0050660~flavin adenine dinucleotide binding,
+INTERPRO	530003371$IPR004099:Pyridine nucleotide-disulphide oxidoreductase, dimerisation,530013495$IPR016156:FAD/NAD-linked reductase, dimerisation,530019440$IPR022962:Soluble pyridine nucleotide transhydrogenase,530020127$IPR023753:Pyridine nucleotide-disulphide oxidoreductase, FAD/NAD(P)-binding domain,
+KEGG_PATHWAY	550041982$mtu00760:Nicotinate and nicotinamide metabolism,550041998$mtu01100:Metabolic pathways,
+UP_KEYWORDS	870000251$Complete proteome,870000288$Cytoplasm,870000374$FAD,870000388$Flavoprotein,870000753$NAD,870000754$NADP,870000802$Oxidoreductase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880036395$chain:Probable soluble pyridine nucleotide transhydrogenase,880050045$chain:Soluble pyridine nucleotide transhydrogenase,880079669$nucleotide phosphate-binding region:FAD,
+
+Rv2241	pyruvate dehydrogenase E1 component(aceE)
+GOTERM_BP_DIRECT	300001324$GO:0006096~glycolytic process,300011127$GO:0055114~oxidation-reduction process,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,380001774$GO:0045254~pyruvate dehydrogenase complex,
+GOTERM_MF_DIRECT	460000058$GO:0000287~magnesium ion binding,460001045$GO:0004739~pyruvate dehydrogenase (acetyl-transferring) activity,
+INTERPRO	530003876$IPR004660:2-oxo-acid dehydrogenase E1 component homodimeric type,530004612$IPR005474:Transketolase, N-terminal,530007703$IPR009014:Transketolase, C-terminal/Pyruvate-ferredoxin oxidoreductase, domain II,
+KEGG_PATHWAY	550041906$mtu00010:Glycolysis / Gluconeogenesis,550041907$mtu00020:Citrate cycle (TCA cycle),550041963$mtu00620:Pyruvate metabolism,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042002$mtu01200:Carbon metabolism,
+PIR_SUPERFAMILY	700000067$PIRSF000156:pyruvate dehydrogenase, E1 component,
+UP_KEYWORDS	870000251$Complete proteome,870000434$Glycolysis,870000610$Isopeptide bond,870000670$Magnesium,870000802$Oxidoreductase,870000918$Pyruvate,870000928$Reference proteome,870001058$Thiamine pyrophosphate,870001125$Ubl conjugation,
+UP_SEQ_FEATURE	880045755$chain:Pyruvate dehydrogenase E1 component,
+
+Rv1003	rRNA small subunit methyltransferase I(Rv1003)
+GOTERM_BP_DIRECT	300000147$GO:0000453~enzyme-directed rRNA 2'-O-methylation,
+GOTERM_CC_DIRECT	380000294$GO:0005737~cytoplasm,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460006876$GO:0070677~rRNA (cytosine-2'-O-)-methyltransferase activity,
+INTERPRO	530000719$IPR000878:Tetrapyrrole methylase,530007023$IPR008189:rRNA small subunit methyltransferase I,530012462$IPR014776:Tetrapyrrole methylase, subdomain 2,530012463$IPR014777:Tetrapyrrole methylase, subdomain 1,530015208$IPR018063:SAM-dependent methyltransferase RsmI, conserved site,
+PIR_SUPERFAMILY	700001001$PIRSF005917:methyltransferase, YraL type,
+UP_KEYWORDS	870000251$Complete proteome,870000288$Cytoplasm,870000701$Methyltransferase,870000928$Reference proteome,870000959$rRNA processing,870000963$S-adenosyl-L-methionine,870001085$Transferase,
+UP_SEQ_FEATURE	880067384$chain:UPF0011 protein Rv1003/MT1032,880087857$sequence conflict,
+
+Rv3143	response regulator(Rv3143)
+GOTERM_BP_DIRECT	300000056$GO:0000160~phosphorelay signal transduction system,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000223$GO:0005622~intracellular,
+INTERPRO	530001482$IPR001789:Signal transduction response regulator, receiver domain,530009444$IPR011006:CheY-like superfamily,
+SMART	790000383$SM00448:REC,
+UP_KEYWORDS	870000251$Complete proteome,870000841$Phosphoprotein,870000928$Reference proteome,870001119$Two-component regulatory system,
+
+Rv1412	riboflavin synthase(ribC)
+GOTERM_BP_DIRECT	300002685$GO:0009231~riboflavin biosynthetic process,
+GOTERM_MF_DIRECT	460001052$GO:0004746~riboflavin synthase activity,460002784$GO:0016491~oxidoreductase activity,
+INTERPRO	530001477$IPR001783:Lumazine-binding protein,530015115$IPR017938:Riboflavin synthase-like beta-barrel,530019788$IPR023366:ATPase, F1/A1 complex, alpha subunit, N-terminal,530022144$IPR026017:Lumazine-binding domain,
+KEGG_PATHWAY	550041980$mtu00740:Riboflavin metabolism,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,
+PIR_SUPERFAMILY	700000198$PIRSF000498:riboflavin synthase, alpha subunit,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870000935$Repeat,870000946$Riboflavin biosynthesis,870001085$Transferase,
+UP_SEQ_FEATURE	880046912$chain:Riboflavin synthase alpha chain,880086981$repeat:Lumazine-binding 1,880086982$repeat:Lumazine-binding 2,
+
+Rv2407	ribonuclease Z(Rv2407)
+GOTERM_MF_DIRECT	460004818$GO:0042781~3'-tRNA processing endoribonuclease activity,460005313$GO:0046872~metal ion binding,
+INTERPRO	530001053$IPR001279:Beta-lactamase-like,530011402$IPR013471:Ribonuclease Z,
+SMART	790000734$SM00849:SM00849,
+UP_KEYWORDS	870000251$Complete proteome,870000348$Endonuclease,870000516$Hydrolase,870000691$Metal-binding,870000781$Nuclease,870000928$Reference proteome,870001110$tRNA processing,870001206$Zinc,
+UP_SEQ_FEATURE	880046989$chain:Ribonuclease Z,880087857$sequence conflict,
+
+Rv0995	ribosomal-protein-alanine acetyltransferase RimJ(rimJ)
+COG_ONTOLOGY	120000125$Translation, ribosomal structure and biogenesis,
+GOTERM_BP_DIRECT	300001579$GO:0006474~N-terminal protein amino acid acetylation,
+GOTERM_MF_DIRECT	460001575$GO:0008080~N-acetyltransferase activity,
+INTERPRO	530000138$IPR000182:GNAT domain,530013516$IPR016181:Acyl-CoA N-acyltransferase,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870001085$Transferase,
+
+Rv3174	short-chain dehydrogenase/reductase(Rv3174)
+INTERPRO	530001946$IPR002347:Glucose/ribitol dehydrogenase,530013409$IPR016040:NAD(P)-binding domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv1731	succinate-semialdehyde dehydrogenase(gabD2)
+GOTERM_BP_DIRECT	300001327$GO:0006099~tricarboxylic acid cycle,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000535$GO:0004029~aldehyde dehydrogenase (NAD) activity,460002142$GO:0009013~succinate-semialdehyde dehydrogenase [NAD(P)+] activity,460002820$GO:0016620~oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor,
+INTERPRO	530013138$IPR015590:Aldehyde dehydrogenase domain,530013500$IPR016161:Aldehyde/histidinol dehydrogenase,530013501$IPR016162:Aldehyde dehydrogenase, N-terminal,530013502$IPR016163:Aldehyde dehydrogenase, C-terminal,
+KEGG_PATHWAY	550041922$mtu00250:Alanine, aspartate and glutamate metabolism,550041930$mtu00310:Lysine degradation,550041935$mtu00350:Tyrosine metabolism,550041975$mtu00650:Butanoate metabolism,550041998$mtu01100:Metabolic pathways,550042000$mtu01120:Microbial metabolism in diverse environments,
+UP_KEYWORDS	870000251$Complete proteome,870000754$NADP,870000802$Oxidoreductase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880044735$chain:Putative succinate-semialdehyde dehydrogenase [NADP+] 2,880079687$nucleotide phosphate-binding region:NAD or NADP,
+
+Rv0951	succinyl-CoA ligase subunit beta(sucC)
+GOTERM_BP_DIRECT	300001327$GO:0006099~tricarboxylic acid cycle,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,
+GOTERM_MF_DIRECT	460000058$GO:0000287~magnesium ion binding,460001075$GO:0004775~succinate-CoA ligase (ADP-forming) activity,460001536$GO:0005524~ATP binding,460003542$GO:0030145~manganese ion binding,
+INTERPRO	530004919$IPR005809:Succinyl-CoA synthetase, beta subunit,530004921$IPR005811:ATP-citrate lyase/succinyl-CoA ligase,530010029$IPR011761:ATP-grasp fold,530011559$IPR013650:ATP-grasp fold, succinyl-CoA synthetase-type,530011704$IPR013815:ATP-grasp fold, subdomain 1,530011705$IPR013816:ATP-grasp fold, subdomain 2,530013452$IPR016102:Succinyl-CoA synthetase-like,530015059$IPR017866:Succinyl-CoA synthetase, beta subunit, conserved site,
+KEGG_PATHWAY	550041907$mtu00020:Citrate cycle (TCA cycle),550041972$mtu00640:Propanoate metabolism,550041976$mtu00660:C5-Branched dibasic acid metabolism,550041998$mtu01100:Metabolic pathways,550041999$mtu01110:Biosynthesis of secondary metabolites,550042000$mtu01120:Microbial metabolism in diverse environments,550042001$mtu01130:Biosynthesis of antibiotics,550042002$mtu01200:Carbon metabolism,
+PIR_SUPERFAMILY	700000472$PIRSF001554:succinyl-CoA synthetase, beta subunit,
+UP_KEYWORDS	870000104$ATP-binding,870000251$Complete proteome,870000646$Ligase,870000670$Magnesium,870000674$Manganese,870000691$Metal-binding,870000786$Nucleotide-binding,870000928$Reference proteome,870001107$Tricarboxylic acid cycle,
+UP_SEQ_FEATURE	880051296$chain:Succinyl-CoA ligase [ADP-forming] subunit beta,880076569$domain:ATP-grasp,880079545$metal ion-binding site:Magnesium or manganese,880079647$nucleotide phosphate-binding region:ATP,
+
+Rv2928	thioesterase TesA(tesA)
+GOTERM_BP_DIRECT	300002565$GO:0008610~lipid biosynthetic process,300002594$GO:0009058~biosynthetic process,300011044$GO:0052562~negative regulation by symbiont of host immune response,300012969$GO:0071770~DIM/DIP cell wall layer assembly,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460002924$GO:0016788~hydrolase activity, acting on ester bonds,
+INTERPRO	530000844$IPR001031:Thioesterase,530010387$IPR012223:Thioesterase type II, NRPS/PKS/S-FAS,530017449$IPR020802:Polyketide synthase, thioesterase domain,
+SMART	790000709$SM00824:SM00824,
+UP_KEYWORDS	870000251$Complete proteome,870000516$Hydrolase,870000928$Reference proteome,
+UP_SEQ_FEATURE	880036517$chain:Probable thioesterase tesA,
+
+Rv1297	transcription termination factor Rho(rho)
+GOTERM_BP_DIRECT	300001492$GO:0006353~DNA-templated transcription, termination,300001494$GO:0006355~regulation of transcription, DNA-templated,300001501$GO:0006363~termination of RNA polymerase I transcription,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000352$GO:0003723~RNA binding,460000759$GO:0004386~helicase activity,460001536$GO:0005524~ATP binding,460001632$GO:0008186~RNA-dependent ATPase activity,
+INTERPRO	530000147$IPR000194:ATPase, F1/V1/A1 complex, alpha/beta subunit, nucleotide-binding domain,530002940$IPR003593:AAA+ ATPase domain,530003880$IPR004665:Transcription termination factor Rho,530009533$IPR011112:Rho termination factor, N-terminal,530009534$IPR011113:Rho termination factor, RNA-binding,530009549$IPR011129:Cold shock protein,530010446$IPR012340:Nucleic acid-binding, OB-fold,530023254$IPR027417:P-loop containing nucleoside triphosphate hydrolase,
+KEGG_PATHWAY	550042013$mtu03018:RNA degradation,
+SMART	790000316$SM00357:CSP,790000325$SM00382:AAA,790000843$SM00959:SM00959,
+UP_KEYWORDS	870000104$ATP-binding,870000251$Complete proteome,870000457$Helicase,870000516$Hydrolase,870000786$Nucleotide-binding,870000928$Reference proteome,870000954$RNA-binding,870001077$Transcription,870001079$Transcription regulation,870001081$Transcription termination,
+UP_SEQ_FEATURE	880053558$chain:Transcription termination factor rho,880076012$compositionally biased region:Arg-rich,880079647$nucleotide phosphate-binding region:ATP,880085245$region of interest:RNA-binding (RNP1),880085246$region of interest:RNA-binding (RNP2),
+
+Rv1453	transcriptional activator protein(Rv1453)
+COG_ONTOLOGY	120000113$Signal transduction mechanisms / Secondary metabolites biosynthesis, transport, and catabolism,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+INTERPRO	530021907$IPR025736:PucR C-terminal helix-turn-helix domain,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3124	transcriptional regulator MoaR(moaR1)
+COG_ONTOLOGY	120000109$Signal transduction mechanisms,
+GOTERM_BP_DIRECT	300000056$GO:0000160~phosphorelay signal transduction system,300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,300005893$GO:0032324~molybdopterin cofactor biosynthetic process,
+GOTERM_CC_DIRECT	380000223$GO:0005622~intracellular,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530001545$IPR001867:Signal transduction response regulator, C-terminal,530004328$IPR005158:Bacterial transcriptional activator domain,530010247$IPR011990:Tetratricopeptide-like helical,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,530013403$IPR016032:Signal transduction response regulator, C-terminal effector,
+SMART	790000747$SM00862:SM00862,790000925$SM01043:SM01043,
+UP_KEYWORDS	870000037$Activator,870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,
+
+Rv1479	transcriptional regulator MoxR1(moxR1)
+COG_ONTOLOGY	120000073$General function prediction only,
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460001536$GO:0005524~ATP binding,460002989$GO:0016887~ATPase activity,
+INTERPRO	530009981$IPR011703:ATPase, AAA-3,530013672$IPR016366:ATPase chaperone, AAA-type, MoxR, predicted,530023254$IPR027417:P-loop containing nucleoside triphosphate hydrolase,
+PIR_SUPERFAMILY	700000631$PIRSF002849:AAA-type ATPase enzymatic complex assembly chaperone, MoxR type,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0078	transcriptional regulator(Rv0078)
+COG_ONTOLOGY	120000115$Transcription,
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000343$GO:0003700~transcription factor activity, sequence-specific DNA binding,
+INTERPRO	530001362$IPR001647:DNA-binding HTH domain, TetR-type,530007736$IPR009057:Homeodomain-like,530009503$IPR011075:Tetracycline transcriptional regulator, TetR-related, C-terminal,530013309$IPR015893:Tetracycline transcriptional regulator, TetR-like, C-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,
+
+Rv0232	transcriptional regulator(Rv0232)
+COG_ONTOLOGY	120000115$Transcription,
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530001362$IPR001647:DNA-binding HTH domain, TetR-type,530007736$IPR009057:Homeodomain-like,530009503$IPR011075:Tetracycline transcriptional regulator, TetR-related, C-terminal,530013309$IPR015893:Tetracycline transcriptional regulator, TetR-like, C-terminal,530020145$IPR023772:DNA-binding HTH domain, TetR-type, conserved site,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,
+
+Rv0386	transcriptional regulator(Rv0386)
+COG_ONTOLOGY	120000114$Signal transduction mechanisms / Transcription,
+GOTERM_BP_DIRECT	300001372$GO:0006171~cAMP biosynthetic process,300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,300002753$GO:0009405~pathogenesis,300007107$GO:0035556~intracellular signal transduction,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000223$GO:0005622~intracellular,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000523$GO:0004016~adenylate cyclase activity,460000757$GO:0004383~guanylate cyclase activity,460003542$GO:0030145~manganese ion binding,
+INTERPRO	530000644$IPR000792:Transcription regulator LuxR, C-terminal,530000861$IPR001054:Adenylyl cyclase class-3/4/guanylyl cyclase,530010247$IPR011990:Tetratricopeptide-like helical,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,530013403$IPR016032:Signal transduction response regulator, C-terminal effector,530023254$IPR027417:P-loop containing nucleoside triphosphate hydrolase,
+SMART	790000357$SM00421:HTH_LUXR,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,
+
+Rv0452	transcriptional regulator(Rv0452)
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530001362$IPR001647:DNA-binding HTH domain, TetR-type,530007736$IPR009057:Homeodomain-like,530013309$IPR015893:Tetracycline transcriptional regulator, TetR-like, C-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,
+
+Rv0894	transcriptional regulator(Rv0894)
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,
+GOTERM_MF_DIRECT	460001536$GO:0005524~ATP binding,
+INTERPRO	530023254$IPR027417:P-loop containing nucleoside triphosphate hydrolase,
+UP_KEYWORDS	870000104$ATP-binding,870000251$Complete proteome,870000786$Nucleotide-binding,870000928$Reference proteome,
+UP_SEQ_FEATURE	880063505$chain:Uncharacterized protein Rv0894/MT0918,880079647$nucleotide phosphate-binding region:ATP,
+
+Rv1473A	transcriptional regulator(Rv1473A)
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv2989	transcriptional regulator(Rv2989)
+COG_ONTOLOGY	120000115$Transcription,
+GOTERM_BP_DIRECT	300001490$GO:0006351~transcription, DNA-templated,300009243$GO:0045892~negative regulation of transcription, DNA-templated,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,460000343$GO:0003700~transcription factor activity, sequence-specific DNA binding,
+INTERPRO	530004611$IPR005471:Transcription regulator IclR, N-terminal,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,530012446$IPR014757:Transcription regulator IclR, C-terminal,
+SMART	790000305$SM00346:HTH_ICLR,
+UP_KEYWORDS	870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,
+
+Rv3631	transferase(Rv3631)
+GOTERM_BP_DIRECT	300001589$GO:0006487~protein N-linked glycosylation,300001599$GO:0006506~GPI anchor biosynthetic process,300004567$GO:0019348~dolichol metabolic process,300004585$GO:0019375~galactolipid biosynthetic process,300006965$GO:0035269~protein O-linked mannosylation,
+GOTERM_MF_DIRECT	460000664$GO:0004169~dolichyl-phosphate-mannose-protein mannosyltransferase activity,460000914$GO:0004582~dolichyl-phosphate beta-D-mannosyltransferase activity,
+INTERPRO	530000959$IPR001173:Glycosyl transferase, family 2,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,870001085$Transferase,
+
+Rv2637	transmembrane protein DedA(dedA)
+COG_ONTOLOGY	120000070$Function unknown,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+UP_SEQ_FEATURE	880057616$chain:Uncharacterized membrane protein Rv0364/MT0380,880057618$chain:Uncharacterized membrane protein Rv2637/MT2715,880089084$transmembrane region,
+
+Rv0528	transmembrane protein(Rv0528)
+GOTERM_BP_DIRECT	300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+INTERPRO	530006707$IPR007816:ResB-like domain,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv0841	transmembrane protein(Rv0841)
+GOTERM_CC_DIRECT	380000668$GO:0016021~integral component of membrane,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv2536	transmembrane protein(Rv2536)
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000408$GO:0005887~integral component of plasma membrane,
+GOTERM_MF_DIRECT	460005305$GO:0046812~host cell surface binding,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv3645	transmembrane protein(Rv3645)
+GOTERM_BP_DIRECT	300001372$GO:0006171~cAMP biosynthetic process,300002094$GO:0007165~signal transduction,300007107$GO:0035556~intracellular signal transduction,
+GOTERM_CC_DIRECT	380000223$GO:0005622~intracellular,380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460000523$GO:0004016~adenylate cyclase activity,460001161$GO:0004871~signal transducer activity,
+INTERPRO	530000861$IPR001054:Adenylyl cyclase class-3/4/guanylyl cyclase,530002982$IPR003660:HAMP linker domain,
+KEGG_PATHWAY	550041920$mtu00230:Purine metabolism,
+SMART	790000035$SM00044:CYCc,790000265$SM00304:HAMP,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv2339	transmembrane transport protein MmpL9(mmpL9)
+COG_ONTOLOGY	120000073$General function prediction only,
+GOTERM_BP_DIRECT	300001846$GO:0006810~transport,300008136$GO:0042783~active evasion of host immune response,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530003921$IPR004707:Membrane transport protein MmpL family,530004064$IPR004869:Membrane transport protein, MMPL type,
+UP_KEYWORDS	870000190$Cell membrane,870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,870001103$Transport,
+UP_SEQ_FEATURE	880043274$chain:Putative membrane protein mmpL9,880089084$transmembrane region,
+
+Rv1145	transmembrane transport protein(Rv1145)
+COG_ONTOLOGY	120000073$General function prediction only,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+INTERPRO	530004064$IPR004869:Membrane transport protein, MMPL type,
+UP_KEYWORDS	870000251$Complete proteome,870000683$Membrane,870000928$Reference proteome,870001092$Transmembrane,870001094$Transmembrane helix,
+
+Rv1149	transposase(Rv1149)
+INTERPRO	530021353$IPR025161:Putative transposase IS4/IS5 family,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3386	transposase(Rv3386)
+COG_ONTOLOGY	120000057$DNA replication, recombination, and repair,
+GOTERM_CC_DIRECT	380000407$GO:0005886~plasma membrane,
+INTERPRO	530007268$IPR008490:Transposase InsH, N-terminal,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv3638	transposase(Rv3638)
+GOTERM_BP_DIRECT	300001427$GO:0006260~DNA replication,
+GOTERM_MF_DIRECT	460001536$GO:0005524~ATP binding,460004944$GO:0043565~sequence-specific DNA binding,
+INTERPRO	530002154$IPR002611:IstB-like ATP-binding protein,530023254$IPR027417:P-loop containing nucleoside triphosphate hydrolase,
+PIR_SUPERFAMILY	700000658$PIRSF003073:DNA replication protein DnaC/Putative insertion sequence ATP-binding protein/Putative transposase associated ATP binding protein,
+UP_KEYWORDS	870000251$Complete proteome,870000928$Reference proteome,
+
+Rv0126	trehalose synthase/amylase TreS(treS)
+GOTERM_BP_DIRECT	300000088$GO:0000272~polysaccharide catabolic process,300001227$GO:0005975~carbohydrate metabolic process,300001230$GO:0005978~glycogen biosynthetic process,300001244$GO:0005992~trehalose biosynthetic process,
+GOTERM_CC_DIRECT	380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000373$GO:0003824~catalytic activity,460000891$GO:0004556~alpha-amylase activity,460002693$GO:0016161~beta-amylase activity,460005313$GO:0046872~metal ion binding,460005589$GO:0047471~maltose alpha-D-glucosyltransferase activity,
+INTERPRO	530005133$IPR006047:Glycosyl hydrolase, family 13, catalytic domain,530010844$IPR012810:Trehalose synthase/alpha-amylase, N-terminal,530011676$IPR013780:Glycosyl hydrolase, family 13, all-beta,530011677$IPR013781:Glycoside hydrolase, catalytic domain,530013317$IPR015902:Glycoside hydrolase, family 13,530015048$IPR017853:Glycoside hydrolase, superfamily,
+KEGG_PATHWAY	550041951$mtu00500:Starch and sucrose metabolism,550041998$mtu01100:Metabolic pathways,
+SMART	790000546$SM00642:Aamy,
+UP_KEYWORDS	870000010$3D-structure,870000156$Calcium,870000173$Carbohydrate metabolism,870000251$Complete proteome,870000430$Glycogen biosynthesis,870000431$Glycogen metabolism,870000436$Glycosidase,870000516$Hydrolase,870000609$Isomerase,870000691$Metal-binding,870000865$Polysaccharide degradation,870000928$Reference proteome,
+
+Rv3490	trehalose-phosphate synthase(otsA)
+GOTERM_BP_DIRECT	300001244$GO:0005992~trehalose biosynthetic process,300007714$GO:0040007~growth,300012346$GO:0070413~trehalose metabolism in response to stress,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000365$GO:0005829~cytosol,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000373$GO:0003824~catalytic activity,460000374$GO:0003825~alpha,alpha-trehalose-phosphate synthase (UDP-forming) activity,460001102$GO:0004805~trehalose-phosphatase activity,460003542$GO:0030145~manganese ion binding,460005477$GO:0047260~alpha,alpha-trehalose-phosphate synthase (GDP-forming) activity,
+INTERPRO	530001514$IPR001830:Glycosyl transferase, family 20,
+KEGG_PATHWAY	550041951$mtu00500:Starch and sucrose metabolism,550041998$mtu01100:Metabolic pathways,
+UP_KEYWORDS	870000251$Complete proteome,870000438$Glycosyltransferase,870000928$Reference proteome,870001085$Transferase,
+UP_SEQ_FEATURE	880000344$binding site:Glucose-6-phosphate,880000435$binding site:NDP-glucose,880054541$chain:Trehalose-phosphate synthase,880084313$region of interest:NDP-glucose binding,880088854$site:Involved in alpha anomer selectivity,
+
+Rv0490	two component sensor histidine kinase SenX3(senX3)
+COG_ONTOLOGY	120000109$Signal transduction mechanisms,
+GOTERM_BP_DIRECT	300002753$GO:0009405~pathogenesis,300004346$GO:0018106~peptidyl-histidine phosphorylation,300009668$GO:0046777~protein autophosphorylation,
+GOTERM_CC_DIRECT	380000189$GO:0005576~extracellular region,380000223$GO:0005622~intracellular,380000407$GO:0005886~plasma membrane,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460000029$GO:0000155~phosphorelay sensor kinase activity,460001536$GO:0005524~ATP binding,
+INTERPRO	530002941$IPR003594:Histidine kinase-like ATPase, ATP-binding domain,530002983$IPR003661:Signal transduction histidine kinase, subgroup 1, dimerisation/phosphoacceptor domain,530003603$IPR004358:Signal transduction histidine kinase-related protein, C-terminal,530004608$IPR005467:Signal transduction histidine kinase, core,
+KEGG_PATHWAY	550042011$mtu02020:Two-component system,
+SMART	790000329$SM00387:HATPase_c,790000330$SM00388:HisKA,
+UP_KEYWORDS	870000104$ATP-binding,870000190$Cell membrane,870000251$Complete proteome,870000620$Kinase,870000683$Membrane,870000786$Nucleotide-binding,870000841$Phosphoprotein,870000928$Reference proteome,870001085$Transferase,870001092$Transmembrane,870001094$Transmembrane helix,870001119$Two-component regulatory system,
+UP_SEQ_FEATURE	880048260$chain:Sensor-like histidine kinase senX3,880077595$domain:Histidine kinase,880079642$modified residue,880089084$transmembrane region,
+
+Rv0491	two component sensory transduction protein RegX(regX3)
+COG_ONTOLOGY	120000114$Signal transduction mechanisms / Transcription,
+GOTERM_BP_DIRECT	300000056$GO:0000160~phosphorelay signal transduction system,300001490$GO:0006351~transcription, DNA-templated,300001494$GO:0006355~regulation of transcription, DNA-templated,300002753$GO:0009405~pathogenesis,300004498$GO:0019217~regulation of fatty acid metabolic process,300004500$GO:0019220~regulation of phosphate metabolic process,300013468$GO:0080134~regulation of response to stress,
+GOTERM_CC_DIRECT	380000223$GO:0005622~intracellular,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530001482$IPR001789:Signal transduction response regulator, receiver domain,530001545$IPR001867:Signal transduction response regulator, C-terminal,530009444$IPR011006:CheY-like superfamily,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,530013403$IPR016032:Signal transduction response regulator, C-terminal effector,
+KEGG_PATHWAY	550042011$mtu02020:Two-component system,
+SMART	790000383$SM00448:REC,790000747$SM00862:SM00862,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000331$DNA-binding,870000841$Phosphoprotein,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,870001119$Two-component regulatory system,
+UP_SEQ_FEATURE	880048270$chain:Sensory transduction protein regX3,880078610$domain:Response regulatory,880079268$helix,880079642$modified residue,880089040$strand,880089085$turn,
+
+Rv0758	two component system response sensor kinase PhoR(phoR)
+COG_ONTOLOGY	120000109$Signal transduction mechanisms,
+GOTERM_CC_DIRECT	380000223$GO:0005622~intracellular,380000668$GO:0016021~integral component of membrane,
+GOTERM_MF_DIRECT	460000029$GO:0000155~phosphorelay sensor kinase activity,460001536$GO:0005524~ATP binding,
+INTERPRO	530002941$IPR003594:Histidine kinase-like ATPase, ATP-binding domain,530002982$IPR003660:HAMP linker domain,530002983$IPR003661:Signal transduction histidine kinase, subgroup 1, dimerisation/phosphoacceptor domain,530003603$IPR004358:Signal transduction histidine kinase-related protein, C-terminal,530004608$IPR005467:Signal transduction histidine kinase, core,
+SMART	790000265$SM00304:HAMP,790000329$SM00387:HATPase_c,790000330$SM00388:HisKA,
+UP_KEYWORDS	870000104$ATP-binding,870000251$Complete proteome,870000620$Kinase,870000683$Membrane,870000786$Nucleotide-binding,870000928$Reference proteome,870001085$Transferase,870001092$Transmembrane,870001094$Transmembrane helix,870001119$Two-component regulatory system,
+
+Rv0757	two component system response transcriptional positive regulator PhoP(phoP)
+COG_ONTOLOGY	120000114$Signal transduction mechanisms / Transcription,
+GOTERM_BP_DIRECT	300000056$GO:0000160~phosphorelay signal transduction system,300001490$GO:0006351~transcription, DNA-templated,300001970$GO:0006979~response to oxidative stress,300002697$GO:0009247~glycolipid biosynthetic process,300002753$GO:0009405~pathogenesis,300003459$GO:0010628~positive regulation of gene expression,300008671$GO:0044315~protein secretion by the type VII secretion system,300009243$GO:0045892~negative regulation of transcription, DNA-templated,300009244$GO:0045893~positive regulation of transcription, DNA-templated,300009721$GO:0046889~positive regulation of lipid biosynthetic process,
+GOTERM_CC_DIRECT	380000223$GO:0005622~intracellular,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000330$GO:0003677~DNA binding,
+INTERPRO	530001482$IPR001789:Signal transduction response regulator, receiver domain,530001545$IPR001867:Signal transduction response regulator, C-terminal,530009444$IPR011006:CheY-like superfamily,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,530013403$IPR016032:Signal transduction response regulator, C-terminal effector,
+SMART	790000383$SM00448:REC,790000747$SM00862:SM00862,
+UP_KEYWORDS	870000010$3D-structure,870000251$Complete proteome,870000331$DNA-binding,870000928$Reference proteome,870001077$Transcription,870001079$Transcription regulation,870001119$Two-component regulatory system,
+
+Rv1626	two-component system transcriptional regulator(Rv1626)
+COG_ONTOLOGY	120000109$Signal transduction mechanisms,
+GOTERM_BP_DIRECT	300000056$GO:0000160~phosphorelay signal transduction system,300001490$GO:0006351~transcription, DNA-templated,300005675$GO:0031564~transcription antitermination,300007714$GO:0040007~growth,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000223$GO:0005622~intracellular,380000407$GO:0005886~plasma membrane,
+GOTERM_MF_DIRECT	460000352$GO:0003723~RNA binding,
+INTERPRO	530001482$IPR001789:Signal transduction response regulator, receiver domain,530004690$IPR005561:ANTAR domain,530007117$IPR008327:Signal transduction response regulator, antiterminator,530009444$IPR011006:CheY-like superfamily,530010248$IPR011991:Winged helix-turn-helix DNA-binding domain,
+PIR_SUPERFAMILY	700002471$PIRSF036382:response regulator antiterminator,
+SMART	790000383$SM00448:REC,790000895$SM01012:SM01012,
+UP_KEYWORDS	870000010$3D-structure,870000030$Acetylation,870000251$Complete proteome,870000841$Phosphoprotein,870000928$Reference proteome,870001077$Transcription,870001078$Transcription antitermination,870001079$Transcription regulation,870001119$Two-component regulatory system,
+UP_SEQ_FEATURE	880036571$chain:Probable transcriptional regulatory protein pdtaR,880076548$domain:ANTAR,880078610$domain:Response regulatory,880079268$helix,880079642$modified residue,880089040$strand,880089085$turn,
+
+Rv1996	universal stress protein(Rv1996)
+GOTERM_BP_DIRECT	300001947$GO:0006950~response to stress,
+GOTERM_CC_DIRECT	380000220$GO:0005618~cell wall,380000407$GO:0005886~plasma membrane,
+INTERPRO	530005108$IPR006015:Universal stress protein A,530005109$IPR006016:UspA,530012422$IPR014729:Rossmann-like alpha/beta/alpha sandwich fold,
+UP_KEYWORDS	870000251$Complete proteome,870000610$Isopeptide bond,870000928$Reference proteome,870001125$Ubl conjugation,
+UP_SEQ_FEATURE	880063631$chain:Uncharacterized protein Rv1996/MT2052,880087857$sequence conflict,
+
